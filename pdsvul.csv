@@ -1,0 +1,2021 @@
+S.No,Gender,Education,Marital status,Primary occupation,Total Income,Vulnerable
+1,Male,B.SC,Un Married,Agriculture,10000,Yes
+2,Female,12,Married,Cooly,10000,Yes
+3,Female,8,Widow,0,0,Yes
+4,Female,6,Widow,Cooly,4000,Yes
+5,Female,6,Widow,Pension,6000,Yes
+6,Female,10,Married,Security,8000,Yes
+7,Male,10,Married,Driver,10000,Yes
+8,Male,8,Married,0,0,Yes
+9,Female,10,Married,Agriculture,7000,Yes
+10,Male,8,Married,Cooly,7500,Yes
+11,Male,10,Married,Cooly,8000,Yes
+12,Female,0,Widow,Cooly,8000,Yes
+13,Male,10,Married,Agriculture,8000,Yes
+14,Male,ITI,Un Married,Cooly,8000,Yes
+15,Male,Diploma,Married,Agriculture,8000,Yes
+16,Male,11,Married,Post master (Rtd),10000,Yes
+17,Male,9,Married,Agriculture,7000,Yes
+18,Male,10,Married,Post master (Rtd),15000,Yes
+19,Male,6,Married,Cooly,6000,Yes
+20,Male,B.Com,Married,Cooly,8000,Yes
+21,Male,10,Married,Cooly,8000,Yes
+22,Male,10,Married,Post master (Rtd),22500,Yes
+23,Female,0,Widow,Cooly,9000,Yes
+24,Female,0,Married,Cooly,6000,Yes
+25,Female,0,Widow,pension,7000,Yes
+26,Female,0,Widow,Cooly,6000,Yes
+27,Female,0,Widow,Cooly,6000,Yes
+28,Male,10,Married,Cooly,6000,Yes
+29,Female,7,Married,Cooly,7000,Yes
+30,Male,8,Un Married,Cooly,8000,Yes
+31,Male,10,Married,Cooly,10000,Yes
+32,Female,10,Married,Cooly,0,Yes
+33,Male,10,Married,Agriculture,8000,Yes
+34,Female,0,Married,House wife,9000,Yes
+35,Male,12,Married,Agriculture,7000,Yes
+36,Female,0,Married,Cooly,12000,Yes
+37,Male,11,Un Married,Student,6000,Yes
+38,Male,10,Un Married,Cooly,5000,Yes
+39,Female,7,Married,Cooly,8000,Yes
+40,Female,7,Married,Cooly,6000,Yes
+41,Female,12,Un Married,Student,8000,Yes
+42,Male,6,Married,Agriculture,5000,Yes
+43,Female,B.Sc,Un Married,Research Assistant (tomporary),20000,Yes
+44,Male,8,Married,Gardner,35000,No
+45,Female,10,Married,House Keeping,16000,Yes
+46,Female,12,Un Married,Petrol Bunk Pump Operater,15000,Yes
+47,Female,10,Married,Research Assistant (tomporary),30000,No
+48,Female,B.SC,Married,House Keeping,16000,Yes
+49,Male,MCA,Married,Research Assistant (tomporary),20000,Yes
+50,Male,10,Married,Driver,35000,No
+51,Male,10,Married,Agriculture,20000,Yes
+52,Female,12,Married,Cooly,14000,Yes
+53,Female,8,Widow,0,0,Yes
+54,Female,6,Married,Cooly,4000,Yes
+55,Female,6,Widow,Pension,6000,Yes
+56,Female,10,Married,Security,10000,Yes
+57,Male,10,Married,Driver,10000,Yes
+58,Male,8,Married,OAP,1000,Yes
+59,Female,10,Married,Agriculture,9000,Yes
+60,Male,8,Married,Cooly,10000,Yes
+61,Male,12,Married,Cooly,10000,Yes
+62,Female,0,Widow,Cooly,14000,Yes
+63,Male,10,Married,Agriculture,8000,Yes
+64,Male,BA,Un Married,Cooly,8000,Yes
+65,Male,Diploma,Married,Agriculture,10000,Yes
+66,Male,10,Married,Post master (Rtd),15000,Yes
+67,Male,12,Married,Agriculture,10000,Yes
+68,Male,10,Married,Post master (Rtd),15000,Yes
+69,Male,6,Married,Cooly,8000,Yes
+70,Male,B.Com,Married,Private work,18000,No
+71,Male,10,Married,Cooly,10000,Yes
+72,Male,10,Married,petti shop,10000,Yes
+73,Female,0,Widow,Cooly,8000,Yes
+74,Female,0,Married,Cooly,6000,Yes
+75,Female,0,Widow,pension,10000,Yes
+76,Female,0,Widow,Cooly,6000,Yes
+77,Female,0,Widow,Cooly,16000,Yes
+78,Male,10,Married,Cooly,6000,Yes
+79,Female,7,Married,Cooly,7000,Yes
+80,Male,8,Un Married,Cooly,8000,Yes
+81,Male,10,Married,Cooly,10000,Yes
+82,Male,10,Married,OAP,1000,Yes
+83,Male,10,Married,Agriculture,10000,Yes
+84,Female,0,Married,House wife,9000,Yes
+85,Male,12,Married,Agriculture,7000,Yes
+86,Female,0,Married,Cooly,12000,Yes
+87,Male,11,Un Married,Student,10000,Yes
+88,Male,10,Un Married,Cooly,8000,Yes
+89,Female,7,Married,Cooly,8000,Yes
+90,Female,7,Married,Cooly,10000,Yes
+91,Female,12,Un Married,Student,8000,Yes
+92,Male,6,Married,Agriculture,15000,Yes
+93,Female,B.Sc,Un Married,Private work,20000,Yes
+94,Male,8,Married,Security,12000,Yes
+95,Female,10,Married,Tailer,16000,Yes
+96,Female,12,Un Married,Shoes company,15000,Yes
+97,Female,10,Married,Shoes company,30000,No
+98,Female,B.SC,Married,Shoes company,16000,Yes
+99,Male,MCA,Married,"Superviser, Shoes company",20000,Yes
+100,Male,10,Married,Tailer,12000,Yes
+101,Female,BA,Married,Cooly,11000,Yes
+102,Female,0,Married,pension,4000,Yes
+103,Female,10,Married,Cooly,22000,Yes
+104,Female,BA,Un Married,Student,24000,Yes
+105,Female,BA,Un Married,Student,40000,No
+106,Female,BA,Un Married,Student,20000,Yes
+107,Female,BA,Married,House wife,20000,Yes
+108,Female,Bsc,Married,House wife,35000,No
+109,Female,BA MA,Un Married,Student,32000,No
+110,Female,BA,Un Married,Student,7500,Yes
+111,Female,10,Married,House wife,18000,Yes
+112,Female,BA,Married,House wife,40000,No
+113,Female,BA,Un Married,Student,35000,No
+114,Female,D.H,Married,Cooly,9500,Yes
+115,Female,BA,Un Married,Student,5000,Yes
+116,Female,8,Married,House wife,30000,No
+117,Female,BA,Married,House wife,50000,No
+118,Female,BA,Un Married,Student,16000,Yes
+119,Female,B.de,Married,House wife,20000,Yes
+120,Female,BA,Married,House wife,9000,Yes
+121,Female,BA,Married,House wife,30000,No
+122,Female,BBA,Married,Cooly,17500,Yes
+123,Female,BA,Un Married,Student,50000,No
+124,Female,B.sc,Un Married,Student,50000,No
+125,Female,10,Married,Cooly,11000,Yes
+126,Female,BA,Un Married,Student,20000,Yes
+127,Female,12,Married,House wife,30000,No
+128,Female,B.sc,Un Married,Student,65000,No
+129,Female,B.sc,Married,House wife,15000,Yes
+130,Female,BA,Married,House wife,75000,No
+131,Female,BA,Married,House wife,10000,Yes
+132,Female,BA,Un Married,Depantment stor,75000,No
+133,Female,BA,Un Married,0,20000,Yes
+134,Female,12,Married,Cooly,50000,No
+135,Female,BA,Married,0,25000,No
+136,Female,BA,Married,makeup,18000,Yes
+137,Female,B.sc,Married,0,13000,Yes
+138,Female,BA,Married,Depantment stor,15000,Yes
+139,Female,B.sc,Married,House wife,30000,No
+140,Female,BA,Un Married,Student,20000,Yes
+141,Female,M.sc,Married,House wife,20000,Yes
+142,Female,Msc,Married,House wife,40000,No
+143,Female,0,Married,House wife,30000,No
+144,Female,M.sc,Married,House wife,40000,No
+145,Female,BA,Married,Cooly,20000,Yes
+146,Female,0,Married,Cooly,27000,No
+147,Female,9,Married,Cooly,20000,Yes
+148,Female,0,Married,Cooly,15000,Yes
+149,Female,10,Married,Cooly,7000,Yes
+150,Female,0,Married,0,10000,Yes
+151,Female,5,Married,Cooly,20000,Yes
+152,Female,3,Married,Cooly,15000,Yes
+153,Female,5,Married,Cooly,10000,Yes
+154,Female,B.sc,Un Married,Student,15000,Yes
+155,Female,8,Married,Cooly,13000,Yes
+156,Female,5,Married,Cooly,23000,Yes
+157,Female,5,Married,0,10000,Yes
+158,Female,12,Married,Cooly,20000,Yes
+159,Female,0,Married,Cooly,5000,Yes
+160,Female,0,Married,Cooly,10000,Yes
+161,Female,0,Married,Cooly,13000,Yes
+162,Female,0,Married,Cooly,5000,Yes
+163,Female,12,Married,House wife,3000,Yes
+164,Female,B.sc,Un Married,Student,5000,Yes
+165,Female,8,Married,Cooly,5000,Yes
+166,Female,5,Married,Cooly,5000,Yes
+167,Female,10,Married,Cooly,20000,Yes
+168,Female,8,Married,Tailer,12000,Yes
+169,Male,6,Un Married,Student,3000,Yes
+170,Female,10,Married,Cooly,15000,Yes
+171,Female,10,Married,Cooly,5000,Yes
+172,Female,5,Married,Cooly,10000,Yes
+173,Male,10,Married,Cooly,6000,Yes
+174,Female,8,Married,Cooly,4000,Yes
+175,Male,8,Married,House wife,6000,Yes
+176,Female,0,Married,House wife,7000,Yes
+177,Female,0,Married,Cooly,10000,Yes
+178,Female,0,Married,House wife,5000,Yes
+179,Female,0,Married,House wife,2000,Yes
+180,Female,10,Married,Cooly,7000,Yes
+181,Female,0,Married,Cooly,6000,Yes
+182,Female,8,Married,House wife,6000,Yes
+183,Female,0,Married,Cooly,7000,Yes
+184,Female,0,Married,Cooly,6000,Yes
+185,Male,0,Un Married,Student,8000,Yes
+186,Male,0,Un Married,Student,8000,Yes
+187,Male,0,Married,Cooly,3000,Yes
+188,Female,0,Married,Cooly,15000,Yes
+189,Male,12,Married,Cooly,5000,Yes
+190,Female,0,Married,House wife,0,Yes
+191,Male,BA,Un Married,Student,0,Yes
+192,Male,7,Married,Cooly,30000,No
+193,Female,0,Married,Cooly,7000,Yes
+194,Female,0,Married,Cooly,20000,Yes
+195,Male,3,Married,Cooly,7000,Yes
+196,Female,10,Married,Tailer,20000,Yes
+197,Female,0,Married,House wife,1000,Yes
+198,Male,12,Married,Cooly,4000,Yes
+199,Male,10,Married,House wife,0,Yes
+200,Female,12,Married,House wife,10000,Yes
+201,Female,6,Married,House wife,5000,Yes
+202,Female,0,Married,Cooly,7000,Yes
+203,Female,MA,Married,House wife,7500,Yes
+204,Female,8,Married,House wife,30000,No
+205,Female,0,Married,House wife,10000,Yes
+206,Female,0,Married,House wife,7000,Yes
+207,Female,10,Married,House wife,9000,Yes
+208,Female,12,Married,House wife,10000,Yes
+209,Female,6,Married,House wife,10000,Yes
+210,Female,0,Married,House wife,10000,Yes
+211,Female,0,Married,House wife,40000,No
+212,Female,0,Married,Cooly,1000,Yes
+213,Male,M.sc,Married,Cooly,6000,Yes
+214,Male,0,Married,Cooly,5000,Yes
+215,Female,0,Married,Cooly,7000,Yes
+216,Female,10,Married,school work,10000,Yes
+217,Female,8,Married,Cooly,10000,Yes
+218,Female,0,Married,Cooly,4000,Yes
+219,Female,0,Married,Cooly,5000,Yes
+220,Female,0,Married,Cooly,5000,Yes
+221,Female,0,Married,Cooly,6000,Yes
+222,Female,10,Married,House wife,10000,Yes
+223,Female,0,Married,Cooly,12000,Yes
+224,Male,0,Married,House wife,2000,Yes
+225,Female,10,Married,Cooly,4000,Yes
+226,Male,10,Married,Cooly,4000,Yes
+227,Male,0,Married,Cooly,7000,Yes
+228,Female,0,Married,House wife,5000,Yes
+229,Female,0,Married,Cooly,4000,Yes
+230,Female,0,Married,0,4000,Yes
+231,Male,DM,Un Married,Student,15000,Yes
+232,Male,0,Un Married,Student,10000,Yes
+233,Female,0,Married,Cooly,7000,Yes
+234,Female,8,Married,House wife,7000,Yes
+235,Female,0,Married,Cooly,5000,Yes
+236,Female,0,Married,Cooly,10000,Yes
+237,Male,0,Married,Cooly,7000,Yes
+238,Female,0,Married,Cooly,20000,Yes
+239,Female,0,Married,Cooly,8000,Yes
+240,Male,0,Married,Cooly,10000,Yes
+241,Female,0,Married,Cooly,10000,Yes
+242,Male,0,Married,Cooly,14000,Yes
+243,Male,5,Married,House wife,8000,Yes
+244,Female,8,Married,House wife,20000,Yes
+245,Female,0,Married,Cooly,15000,Yes
+246,Female,0,Married,Cooly,3000,Yes
+247,Female,10,Married,House wife,4000,Yes
+248,Female,0,Married,Cooly,3000,Yes
+249,Female,0,Married,House wife,10000,Yes
+250,Female,0,Married,House wife,15000,Yes
+251,Male,0,Married,House wife,5000,Yes
+252,Female,12,Married,House wife,10000,Yes
+253,Female,10,Married,House wife,10000,Yes
+254,Male,0,Married,House wife,30000,Yes
+255,Female,12,Married,House wife,10000,Yes
+256,Male,DM,Married,House wife,10000,Yes
+257,Male,0,Married,Cooly,15000,Yes
+258,Female,0,Married,Cooly,10000,Yes
+259,Female,12,Married,House wife,10000,Yes
+260,Female,0,Married,House wife,5000,Yes
+261,Female,0,Married,House wife,5000,Yes
+262,Female,0,Married,Cooly,5000,Yes
+263,Male,0,Married,0,10000,Yes
+264,Male,0,Married,House wife,50000,No
+265,Female,0,Married,Cooly,5000,Yes
+266,Female,9,Married,House wife,5000,Yes
+267,Female,0,Married,Cooly,10000,Yes
+268,Male,0,Married,House wife,10000,Yes
+269,Male,7,Married,House wife,10000,Yes
+270,Female,DM,Un Married,House wife,10000,Yes
+271,Male,0,Married,Cooly,5000,Yes
+272,Female,0,Married,0,10000,Yes
+273,Female,0,Married,Cooly,14000,Yes
+274,Female,0,Married,Cooly,5000,Yes
+275,Female,0,Married,0,7000,Yes
+276,Female,0,Married,0,12000,Yes
+277,Female,0,Married,House wife,8000,Yes
+278,Female,0,Married,House wife,5000,Yes
+279,Female,0,Married,House wife,7000,Yes
+280,Female,0,Married,Cooly,6000,Yes
+281,Female,0,Married,Cooly,10000,Yes
+282,Female,0,Married,Cooly,10000,Yes
+283,Female,0,Married,Cooly,8000,Yes
+284,Female,0,Married,Cooly,7000,Yes
+285,Female,0,Married,House wife,2000,Yes
+286,Male,0,Married,House wife,5000,Yes
+287,Female,0,Married,Cooly,6000,Yes
+288,Female,0,Married,Cooly,6000,Yes
+289,Female,ug,Married,Cooly,10000,Yes
+290,Female,0,Married,House wife,50000,No
+291,Female,7,Un Married,Tailer,12000,Yes
+292,Female,7,Un Married,Student,5000,Yes
+293,Female,0,Married,Cooly,6000,Yes
+294,Female,0,Married,Cooly,10000,Yes
+295,Female,0,Married,House wife,20000,Yes
+296,Female,0,Married,House wife,0,Yes
+297,Female,TEACHER,Married,Cooly,5000,Yes
+298,Female,8,Married,House wife,6000,Yes
+299,Female,0,Married,House wife,5000,Yes
+300,Female,10,Married,House wife,10000,Yes
+301,Female,10,Married,House wife,10000,Yes
+302,Female,B.Ed,Married,House wife,10000,Yes
+303,Female,10,Un Married,Cooly,10000,Yes
+304,Female,9,Married,Cooly,10000,Yes
+305,Female,0,Married,Cooly,5000,Yes
+306,Female,0,Married,Cooly,10000,Yes
+307,Female,0,Married,Cooly,10000,Yes
+308,Female,10,Married,Cooly,12000,Yes
+309,Female,5,Married,Cooly,10000,Yes
+310,Female,12,Married,Cooly,8000,Yes
+311,Female,12,Married,House wife,30000,No
+312,Female,10,Married,House wife,6000,Yes
+313,Female,0,Married,House wife,20000,Yes
+314,Female,0,Married,House wife,10000,Yes
+315,Female,0,Married,House wife,10000,Yes
+316,Female,0,Married,Cooly,15000,Yes
+317,Female,B.SC,Married,House wife,10000,Yes
+318,Female,0,Married,Cooly,8000,Yes
+319,Female,12,Married,House wife,10000,Yes
+320,Female,0,Married,Cooly,9000,Yes
+321,Female,5,Married,Cooly,10000,Yes
+322,Female,0,Married,Cooly,8000,Yes
+323,Female,0,Married,Cooly,5000,Yes
+324,Female,0,Married,House wife,5000,Yes
+325,Female,0,Married,House wife,5000,Yes
+326,Female,0,Married,House wife,4000,Yes
+327,Female,m.SC,Married,House wife,6000,Yes
+328,Female,0,Married,House wife,4000,Yes
+329,Female,0,Married,Cooly,10000,Yes
+330,Male,10,Married,Cooly,5000,Yes
+331,Male,10,Married,Cooly,3000,Yes
+332,Female,0,Married,Cooly,6000,Yes
+333,Female,0,Married,Cooly,10000,Yes
+334,Female,0,Married,Cooly,5000,Yes
+335,Female,0,Married,Cooly,7000,Yes
+336,Male,0,Married,Cooly,10000,Yes
+337,Male,0,Married,Cooly,15000,Yes
+338,Female,10,Married,Cooly,25000,Yes
+339,Female,0,Married,Tailer,10000,Yes
+340,Female,0,Married,House wife,10000,Yes
+341,Male,0,Married,House wife,10000,Yes
+342,Male,0,Married,Cooly,5000,Yes
+343,Male,6,Married,House wife,5000,Yes
+344,Male,0,Married,Cooly,7000,Yes
+345,Male,0,Married,Cooly,4000,Yes
+346,Female,8,Married,House wife,5000,Yes
+347,Female,0,Married,House wife,8000,Yes
+348,Female,0,Married,Cooly,8000,Yes
+349,Male,BA,Married,Cooly,10000,Yes
+350,Female,0,Married,0,4000,Yes
+351,Female,0,Married,Cooly,15000,Yes
+352,Female,0,Married,Cooly,5000,Yes
+353,Female,0,Married,Cooly,3000,Yes
+354,Female,0,Married,Cooly,10000,Yes
+355,Female,0,Married,Cooly,10000,Yes
+356,Female,0,Married,Cooly,10000,Yes
+357,Female,0,Married,Cooly,5000,Yes
+358,Female,0,Married,Cooly,15000,Yes
+359,Female,0,Married,Cooly,5000,Yes
+360,Female,0,Married,Cooly,5000,Yes
+361,Female,0,Married,Cooly,4000,Yes
+362,Female,0,Married,0,5000,Yes
+363,Female,0,Married,Cooly,10000,Yes
+364,Female,0,Married,Cooly,7000,Yes
+365,Female,0,Married,Cooly,7000,Yes
+366,Female,0,Married,Cooly,2000,Yes
+367,Female,0,Married,Cooly,5000,Yes
+368,Female,0,Married,Cooly,12000,Yes
+369,Female,0,Married,Cooly,10000,Yes
+370,Female,0,Married,Cooly,5000,Yes
+371,Female,0,Married,Cooly,6000,Yes
+372,Female,0,Married,House wife,20000,Yes
+373,Female,0,Married,Cooly,4000,Yes
+374,Female,0,Married,Cooly,10000,Yes
+375,Female,0,Married,Cooly,1000,Yes
+376,Female,0,Married,Cooly,5000,Yes
+377,Male,0,Married,Cooly,10000,Yes
+378,Male,0,Married,Cooly,10000,Yes
+379,Female,0,Married,Cooly,4000,Yes
+380,Female,0,Married,Cooly,4000,Yes
+381,Male,0,Married,Cooly,0,Yes
+382,Male,0,Married,House wife,7000,Yes
+383,Female,MA,Married,school work,7000,Yes
+384,Female,0,Married,0,12000,Yes
+385,Female,0,Married,0,10000,Yes
+386,Female,0,Married,Cooly,10000,Yes
+387,Female,0,Married,House wife,10000,Yes
+388,Female,0,Married,Cooly,10000,Yes
+389,Female,0,Married,House wife,10000,Yes
+390,Male,0,Married,House wife,8000,Yes
+391,Female,0,Married,Cooly,7000,Yes
+392,Male,0,Married,Cooly,10000,Yes
+393,Male,0,Married,Cooly,7000,Yes
+394,Female,10,Married,House wife,10000,Yes
+395,Female,0,Married,House wife,7000,Yes
+396,Female,0,Married,House wife,10000,Yes
+397,Female,0,Married,Cooly,7000,Yes
+398,Female,0,Married,Cooly,5000,Yes
+399,Female,0,Married,Tailer,10000,Yes
+400,Female,0,Married,Cooly,7000,Yes
+401,Female,0,Married,school work,15000,Yes
+402,Female,0,Married,Cooly,10000,Yes
+403,Female,0,Married,Cooly,7000,Yes
+404,Female,0,Married,Cooly,5000,Yes
+405,Female,0,Married,Cooly,4000,Yes
+406,Female,0,Married,Cooly,10000,Yes
+407,Female,0,Married,Cooly,8000,Yes
+408,Female,0,Married,Cooly,10000,Yes
+409,Female,0,Married,Cooly,7000,Yes
+410,Female,0,Married,Cooly,10000,Yes
+411,Female,0,Married,Cooly,10000,Yes
+412,Female,0,Married,Cooly,5000,Yes
+413,Female,0,Married,Cooly,7000,Yes
+414,Female,0,Married,Cooly,10000,Yes
+415,Female,0,Married,Cooly,10000,Yes
+416,Female,0,Married,Cooly,7000,Yes
+417,Female,MA,Un Married,Cooly,12000,Yes
+418,Male,12,Married,Cooly,12000,Yes
+419,Female,0,Married,Cooly,4000,Yes
+420,Female,0,Married,Cooly,8000,Yes
+421,Female,0,Married,Cooly,7000,Yes
+422,Female,0,Married,Cooly,5000,Yes
+423,Female,0,Married,House wife,10000,Yes
+424,Female,0,Married,Cooly,10000,Yes
+425,Male,0,Married,Cooly,10000,Yes
+426,Female,0,Married,House wife,20000,Yes
+427,Female,0,Married,Cooly,7000,Yes
+428,Female,4,Married,Mazon,10000,Yes
+429,Female,10,Married,Agricultre,4000,Yes
+430,Male,10,Married,Painter,5000,Yes
+431,Female,0,Married,0,0,Yes
+432,Male,10,Married,Painter,15000,Yes
+433,Female,10,Married,House wife,10000,Yes
+434,Male,7,Married,House wife,5000,Yes
+435,Female,0,Married,House wife,5000,Yes
+436,Male,10,Married,House wife,10000,Yes
+437,Male,10,Married,Cooly,15000,Yes
+438,Female,0,Married,House wife,5000,Yes
+439,Female,0,Married,House wife,10000,Yes
+440,Male,0,Married,House wife,6000,Yes
+441,Male,0,Married,House wife,10000,Yes
+442,Female,0,Married,House wife,20000,Yes
+443,Male,0,Married,House wife,15000,Yes
+444,Male,0,Married,House wife,7000,Yes
+445,Male,0,Married,House wife,5000,Yes
+446,Male,0,Married,House wife,8000,Yes
+447,Female,0,Married,House wife,10000,Yes
+448,Female,0,Married,House wife,10000,Yes
+449,Female,B.SC,Un Married,Cooly,10000,Yes
+450,Female,0,Married,Cooly,10000,Yes
+451,Female,0,Married,Cooly,12000,Yes
+452,Female,0,Married,Cooly,6000,Yes
+453,Female,0,Married,Cooly,14000,Yes
+454,Female,0,Married,Cooly,7000,Yes
+455,Male,0,Married,House wife,30000,No
+456,Female,0,Married,House wife,8000,Yes
+457,Female,0,Married,House wife,35000,No
+458,Female,0,Married,House wife,10000,Yes
+459,Female,0,Married,House wife,20000,Yes
+460,Female,0,Married,House wife,20000,Yes
+461,Male,9,Married,House wife,10000,Yes
+462,Female,0,Married,House wife,10000,Yes
+463,Female,0,Married,House wife,20000,Yes
+464,Female,0,Married,House wife,10000,Yes
+465,Male,0,Married,House wife,7000,Yes
+466,Male,0,Married,House wife,20000,Yes
+467,Female,0,Married,House wife,4000,Yes
+468,Female,0,Married,House wife,10000,Yes
+469,Male,MSC BED,Married,Teacher,10000,Yes
+470,Male,8,Widower,Wever,6000,Yes
+471,Female,0,Widow,Cooly,3000,Yes
+472,Female,0,Married,Cooly,12000,Yes
+473,Male,0,Married,Cooly,3000,Yes
+474,Female,8,Married,Agricultre,15000,Yes
+475,Female,0,Married,Cooly,7000,Yes
+476,Female,MBC,Married,Cooly,6000,Yes
+477,Female,BC,Married,Small Business,3000,Yes
+478,Female,0,Married,Cooly,5000,Yes
+479,Male,0,Married,House wife,30000,No
+480,Female,0,Married,Cooly,4000,Yes
+481,Female,0,Married,Cooly,10000,Yes
+482,Female,0,Married,Cooly,7000,Yes
+483,Female,0,Married,Cooly,5000,Yes
+484,Female,0,Married,Cooly,10000,Yes
+485,Female,0,Married,Cooly,7000,Yes
+486,Female,0,Married,Cooly,10000,Yes
+487,Female,0,Married,0,2000,Yes
+488,Female,0,Married,Cooly,8000,Yes
+489,Female,0,Married,0,2000,Yes
+490,Female,0,Married,Cooly,10000,Yes
+491,Female,0,Married,Cooly,8000,Yes
+492,Female,0,Married,Cooly,10000,Yes
+493,Male,0,Married,Cooly,8000,Yes
+494,Female,0,Married,Cooly,10000,Yes
+495,Female,0,Married,House wife,12000,Yes
+496,Female,0,Married,House wife,12000,Yes
+497,Female,0,Married,House wife,10000,Yes
+498,Female,0,Married,House wife,10000,Yes
+499,Female,0,Married,House wife,8000,Yes
+500,Female,0,Married,House wife,10000,Yes
+501,Female,0,Married,Cooly,12000,Yes
+502,Female,0,Married,Cooly,10000,Yes
+503,Female,0,Married,Cooly,12000,Yes
+504,Female,0,Married,Cooly,10000,Yes
+505,Female,0,Married,Cooly,15000,Yes
+506,Female,0,Married,Cooly,6000,Yes
+507,Female,0,Married,House wife,10000,Yes
+508,Female,0,Married,House wife,15000,Yes
+509,Female,0,Married,Cooly,14000,Yes
+510,Female,0,Married,Cooly,8000,Yes
+511,Female,0,Married,House wife,10000,Yes
+512,Male,0,Married,House wife,10000,Yes
+513,Male,0,Married,House wife,10000,Yes
+514,Female,0,Married,House wife,5000,Yes
+515,Female,0,Un Married,House wife,10000,Yes
+516,Male,0,Married,Cooly,10000,Yes
+517,Female,0,Married,Cooly,10000,Yes
+518,Female,0,Married,Cooly,12000,Yes
+519,Female,0,Married,House wife,10000,Yes
+520,Female,0,Married,Cooly,12000,Yes
+521,Female,0,Married,Cooly,7000,Yes
+522,Female,0,Married,Cooly,6000,Yes
+523,Female,0,Married,House wife,5000,Yes
+524,Male,0,Married,House wife,4000,Yes
+525,Female,0,Married,Cooly,15000,Yes
+526,Female,0,Married,Cooly,15000,Yes
+527,Female,0,Married,Cooly,4000,Yes
+528,Female,0,Married,Cooly,7000,Yes
+529,Female,0,Married,Cooly,5000,Yes
+530,Female,0,Married,Cooly,20000,Yes
+531,Female,0,Married,Cooly,10000,Yes
+532,Female,0,Married,Work to school,7000,Yes
+533,Female,0,Married,Cooly,8000,Yes
+534,Male,0,Married,Cooly,5000,Yes
+535,Female,0,Married,Cooly,8000,Yes
+536,Male,0,Married,Cooly,20000,Yes
+537,Female,0,Married,Cooly,8000,Yes
+538,Male,0,Married,Cooly,7000,Yes
+539,Female,0,Married,Cooly,10000,Yes
+540,Female,0,Married,House wife,10000,Yes
+541,Female,0,Married,Cooly,10000,Yes
+542,Female,0,Married,Cooly,15000,Yes
+543,Female,0,Married,House wife,20000,Yes
+544,Female,0,Married,House wife,15000,Yes
+545,Female,0,Married,House wife,15000,Yes
+546,Female,0,Married,Cooly,7000,Yes
+547,Female,0,Married,Cooly,10000,Yes
+548,Female,0,Married,Cooly,7000,Yes
+549,Female,0,Married,Cooly,10000,Yes
+550,Female,0,Married,Cooly,5000,Yes
+551,Female,0,Married,Teacher,15000,Yes
+552,Female,0,Married,Teacher,20000,Yes
+553,Male,0,Married,House wife,10000,Yes
+554,Female,0,Married,Teacher,10000,Yes
+555,Female,0,Married,House wife,10000,Yes
+556,Female,0,Married,House wife,20000,Yes
+557,Female,0,Married,House wife,20000,Yes
+558,Female,0,Married,bank work,18000,Yes
+559,Female,0,Married,House wife,10000,Yes
+560,Female,0,Married,House wife,10000,Yes
+561,Female,0,Married,Cooly,5000,Yes
+562,Male,0,Married,Cooly,15000,Yes
+563,Female,0,Married,0,10000,Yes
+564,Female,8,Married,Cooly,15000,Yes
+565,Female,0,Married,Cooly,4000,Yes
+566,Female,0,Married,Cooly,10000,Yes
+567,Female,0,Married,Cooly,10000,Yes
+568,Female,0,Married,Cooly,5000,Yes
+569,Female,0,Married,Cooly,8000,Yes
+570,Female,0,Married,Cooly,10000,Yes
+571,Female,5,Married,House wife,10000,Yes
+572,Female,0,Married,House wife,10000,Yes
+573,Female,0,Married,Cooly,3000,Yes
+574,Female,0,Married,Cooly,10000,Yes
+575,Female,0,Married,Cooly,5000,Yes
+576,Male,0,Married,Cooly,8000,Yes
+577,Male,0,Married,Cooly,4000,Yes
+578,Male,0,Married,Cooly,8000,Yes
+579,Female,0,Married,Cooly,2000,Yes
+580,Female,0,Married,Cooly,10000,Yes
+581,Male,0,Married,Cooly,8000,Yes
+582,Female,0,Married,Cooly,2000,Yes
+583,Female,0,Married,House wife,3000,Yes
+584,Female,12,Married,Cooly,15000,Yes
+585,Female,0,Married,Cooly,1000,Yes
+586,Female,0,Married,Cooly,15000,Yes
+587,Female,0,Married,House wife,10000,Yes
+588,Female,0,Married,0,5000,Yes
+589,Female,0,Married,Cooly,7000,Yes
+590,Male,0,Married,Cooly,10000,Yes
+591,Male,0,Married,Cooly,8000,Yes
+592,Female,0,Married,Cooly,10000,Yes
+593,Female,0,Married,Cooly,8000,Yes
+594,Male,0,Married,Cooly,7000,Yes
+595,Male,0,Married,Cooly,10000,Yes
+596,Female,0,Married,Cooly,15000,Yes
+597,Male,0,Married,Cooly,4000,Yes
+598,Male,0,Married,Cooly,10000,Yes
+599,Female,0,Married,Cooly,10000,Yes
+600,Female,0,Married,Cooly,2000,Yes
+601,Male,0,Married,Cooly,10000,Yes
+602,Female,0,Married,Cooly,10000,Yes
+603,Female,0,Married,Cooly,10000,Yes
+604,Female,0,Married,Cooly,10000,Yes
+605,Female,0,Married,Cooly,6000,Yes
+606,Male,0,Married,0,2000,Yes
+607,Female,0,Married,House wife,10000,Yes
+608,Female,0,Married,House wife,10000,Yes
+609,Female,0,Married,Cooly,8000,Yes
+610,Female,0,Married,Cooly,10000,Yes
+611,Female,0,Married,Cooly,10000,Yes
+612,Female,0,Married,Cooly,6000,Yes
+613,Male,0,Married,Cooly,10000,Yes
+614,Male,0,Married,Cooly,3000,Yes
+615,Female,0,Married,House wife,10000,Yes
+616,Female,0,Married,Cooly,8000,Yes
+617,Female,0,Married,Cooly,10000,Yes
+618,Female,0,Married,Cooly,12000,Yes
+619,Female,0,Married,Cooly,10000,Yes
+620,Female,0,Married,Cooly,9000,Yes
+621,Female,0,Married,Cooly,10000,Yes
+622,Female,0,Married,Cooly,10000,Yes
+623,Male,0,Un Married,0,8000,Yes
+624,Female,0,Married,Cooly,4000,Yes
+625,Female,0,Married,Cooly,3000,Yes
+626,Female,0,Married,Cooly,7000,Yes
+627,Male,0,Married,Cooly,8000,Yes
+628,Female,0,Married,Cooly,10000,Yes
+629,Female,0,Married,Cooly,8000,Yes
+630,Female,0,Married,Cooly,12000,Yes
+631,Female,0,Married,Cooly,8000,Yes
+632,Female,0,Married,Cooly,15000,Yes
+633,Male,0,Married,Cooly,4000,Yes
+634,Female,0,Married,Cooly,10000,Yes
+635,Female,0,Married,Cooly,15000,Yes
+636,Female,0,Married,Cooly,10000,Yes
+637,Male,0,Married,Cooly,10000,Yes
+638,Female,0,Married,Cooly,10000,Yes
+639,Female,0,Married,Cooly,10000,Yes
+640,Female,0,Married,Cooly,5000,Yes
+641,Female,0,Married,Cooly,7000,Yes
+642,Female,0,Married,Cooly,6000,Yes
+643,Female,0,Married,Cooly,10000,Yes
+644,Female,0,Married,Cooly,10000,Yes
+645,Female,0,Married,Cooly,10000,Yes
+646,Female,0,Married,Cooly,6000,Yes
+647,Female,0,Married,Cooly,10000,Yes
+648,Female,0,Married,House wife,12000,Yes
+649,Male,0,Married,Cooly,10000,Yes
+650,Male,0,Married,Cooly,10000,Yes
+651,Male,0,Married,Cooly,12000,Yes
+652,Male,0,Married,Cooly,15000,Yes
+653,Male,0,Married,Cooly,10000,Yes
+654,Male,0,Married,Cooly,12000,Yes
+655,Male,0,Married,Cooly,10000,Yes
+656,Female,0,Married,House wife,7000,Yes
+657,Female,0,Married,Cooly,5000,Yes
+658,Female,0,Married,House wife,7000,Yes
+659,Female,0,Married,Cooly,14000,Yes
+660,Female,10,Married,House wife,10000,Yes
+661,Female,0,Married,Cooly,10000,Yes
+662,Male,B.SC,Un Married,Agriculture,10000,Yes
+663,Female,12,Married,Cooly,10000,Yes
+664,Female,8,Widow,0,0,Yes
+665,Female,6,Widow,Cooly,4000,Yes
+666,Female,6,Widow,Pension,6000,Yes
+667,Female,10,Married,Security,8000,Yes
+668,Male,10,Married,Driver,10000,Yes
+669,Male,8,Married,0,0,Yes
+670,Female,10,Married,Agriculture,7000,Yes
+671,Male,8,Married,Cooly,7500,Yes
+672,Male,10,Married,Cooly,8000,Yes
+673,Female,0,Widow,Cooly,8000,Yes
+674,Male,10,Married,Agriculture,8000,Yes
+675,Male,ITI,Un Married,Cooly,8000,Yes
+676,Male,Diploma,Married,Agriculture,8000,Yes
+677,Male,11,Married,Post master (Rtd),10000,Yes
+678,Male,9,Married,Agriculture,7000,Yes
+679,Male,10,Married,Post master (Rtd),15000,Yes
+680,Male,6,Married,Cooly,6000,Yes
+681,Male,B.Com,Married,Cooly,8000,Yes
+682,Male,10,Married,Cooly,8000,Yes
+683,Male,10,Married,Post master (Rtd),22500,Yes
+684,Female,0,Widow,Cooly,9000,Yes
+685,Female,0,Married,Cooly,6000,Yes
+686,Female,0,Widow,pension,7000,Yes
+687,Female,0,Widow,Cooly,6000,Yes
+688,Female,0,Widow,Cooly,6000,Yes
+689,Male,10,Married,Cooly,6000,Yes
+690,Female,7,Married,Cooly,7000,Yes
+691,Male,8,Un Married,Cooly,8000,Yes
+692,Male,10,Married,Cooly,10000,Yes
+693,Female,10,Married,Cooly,0,Yes
+694,Male,10,Married,Agriculture,8000,Yes
+695,Female,0,Married,House wife,9000,Yes
+696,Male,12,Married,Agriculture,7000,Yes
+697,Female,0,Married,Cooly,12000,Yes
+698,Male,11,Un Married,Student,6000,Yes
+699,Male,10,Un Married,Cooly,5000,Yes
+700,Female,7,Married,Cooly,8000,Yes
+701,Female,7,Married,Cooly,6000,Yes
+702,Female,12,Un Married,Student,8000,Yes
+703,Male,6,Married,Agriculture,5000,Yes
+704,Female,B.Sc,Un Married,Research Assistant (tomporary),20000,Yes
+705,Male,8,Married,Gardner,35000,No
+706,Female,10,Married,House Keeping,16000,Yes
+707,Female,12,Un Married,Petrol Bunk Pump Operater,15000,Yes
+708,Female,10,Married,Research Assistant (tomporary),30000,No
+709,Female,B.SC,Married,House Keeping,16000,Yes
+710,Male,MCA,Married,Research Assistant (tomporary),20000,Yes
+711,Male,10,Married,Driver,35000,No
+712,Male,10,Married,Agriculture,20000,Yes
+713,Female,12,Married,Cooly,14000,Yes
+714,Female,8,Widow,0,0,Yes
+715,Female,6,Married,Cooly,4000,Yes
+716,Female,6,Widow,Pension,6000,Yes
+717,Female,10,Married,Security,10000,Yes
+718,Male,10,Married,Driver,10000,Yes
+719,Male,8,Married,OAP,1000,Yes
+720,Female,10,Married,Agriculture,9000,Yes
+721,Male,8,Married,Cooly,10000,Yes
+722,Male,12,Married,Cooly,10000,Yes
+723,Female,0,Widow,Cooly,14000,Yes
+724,Male,10,Married,Agriculture,8000,Yes
+725,Male,BA,Un Married,Cooly,8000,Yes
+726,Male,Diploma,Married,Agriculture,10000,Yes
+727,Male,10,Married,Post master (Rtd),15000,Yes
+728,Male,12,Married,Agriculture,10000,Yes
+729,Male,10,Married,Post master (Rtd),15000,Yes
+730,Male,6,Married,Cooly,8000,Yes
+731,Male,B.Com,Married,Private work,18000,No
+732,Male,10,Married,Cooly,10000,Yes
+733,Male,10,Married,petti shop,10000,Yes
+734,Female,0,Widow,Cooly,8000,Yes
+735,Female,0,Married,Cooly,6000,Yes
+736,Female,0,Widow,pension,10000,Yes
+737,Female,0,Widow,Cooly,6000,Yes
+738,Female,0,Widow,Cooly,16000,Yes
+739,Male,10,Married,Cooly,6000,Yes
+740,Female,7,Married,Cooly,7000,Yes
+741,Male,8,Un Married,Cooly,8000,Yes
+742,Male,10,Married,Cooly,10000,Yes
+743,Male,10,Married,OAP,1000,Yes
+744,Male,10,Married,Agriculture,10000,Yes
+745,Female,0,Married,House wife,9000,Yes
+746,Male,12,Married,Agriculture,7000,Yes
+747,Female,0,Married,Cooly,12000,Yes
+748,Male,11,Un Married,Student,10000,Yes
+749,Male,10,Un Married,Cooly,8000,Yes
+750,Female,7,Married,Cooly,8000,Yes
+751,Female,7,Married,Cooly,10000,Yes
+752,Female,12,Un Married,Student,8000,Yes
+753,Male,6,Married,Agriculture,15000,Yes
+754,Female,B.Sc,Un Married,Private work,20000,Yes
+755,Male,8,Married,Security,12000,Yes
+756,Female,10,Married,Tailer,16000,Yes
+757,Female,12,Un Married,Shoes company,15000,Yes
+758,Female,10,Married,Shoes company,30000,No
+759,Female,B.SC,Married,Shoes company,16000,Yes
+760,Male,MCA,Married,"Superviser, Shoes company",20000,Yes
+761,Male,10,Married,Tailer,12000,Yes
+762,Female,10,Married,Cooly,10000,Yes
+763,Female,B.A,Un Married,Cooly,11000,Yes
+764,Male,EEE,Married,Cooly,15000,Yes
+765,Female,10,Married,Beauty parlour,20000,Yes
+766,Female,BA,Un Married,Cooly,10000,Yes
+767,Male,10,Un Married,Cooly,15000,Yes
+768,Female,BA,Married,Cooly,15000,Yes
+769,Female,12,Married,Cooly,10000,Yes
+770,Female,M.SC,Married,Cooly,12000,Yes
+771,Female,EEE,Un Married,Cooly,10000,Yes
+772,Female,12,Married,Cooly,4000,Yes
+773,Female,12,Married,Cooly,10000,Yes
+774,Female,12,Married,Cooly,10000,Yes
+775,Female,0,Married,Cooly,5000,Yes
+776,Female,12,Married,Cooly,8000,Yes
+777,Female,10,Married,Cooly,10000,Yes
+778,Female,5,Married,House wife,10000,Yes
+779,Female,5,Married,House wife,10000,Yes
+780,Female,3,Married,Cooly,3000,Yes
+781,Female,12,Married,Cooly,10000,Yes
+782,Female,12,Married,Cooly,5000,Yes
+783,Male,12,Married,Cooly,8000,Yes
+784,Male,10,Married,Cooly,4000,Yes
+785,Male,8,Married,Cooly,8000,Yes
+786,Female,0,Married,Cooly,2000,Yes
+787,Female,8,Married,Cooly,10000,Yes
+788,Male,0,Married,Cooly,8000,Yes
+789,Female,0,Married,Cooly,2000,Yes
+790,Female,0,Married,House wife,3000,Yes
+791,Female,12,Married,Cooly,15000,Yes
+792,Female,10,Married,Cooly,1000,Yes
+793,Female,12,Married,Cooly,15000,Yes
+794,Female,0,Married,House wife,10000,Yes
+795,Female,10,Married,0,5000,Yes
+796,Female,10,Married,Cooly,7000,Yes
+797,Male,3,Married,Cooly,10000,Yes
+798,Male,12,Married,Cooly,8000,Yes
+799,Female,10,Married,Cooly,10000,Yes
+800,Female,0,Married,Cooly,8000,Yes
+801,Male,0,Married,Cooly,7000,Yes
+802,Male,0,Married,Cooly,10000,Yes
+803,Female,12,Married,Cooly,15000,Yes
+804,Male,0,Married,Cooly,4000,Yes
+805,Male,0,Married,Cooly,10000,Yes
+806,Female,12,Married,Cooly,10000,Yes
+807,Female,0,Married,Cooly,2000,Yes
+808,Male,0,Married,Cooly,10000,Yes
+809,Female,12,Married,Cooly,10000,Yes
+810,Female,12,Married,Cooly,10000,Yes
+811,Female,Diploma,Married,Cooly,10000,Yes
+812,Female,12,Married,Cooly,6000,Yes
+813,Male,0,Married,0,2000,Yes
+814,Female,10,Married,House wife,10000,Yes
+815,Female,10,Married,House wife,10000,Yes
+816,Female,12,Married,Cooly,8000,Yes
+817,Female,12,Married,Cooly,10000,Yes
+818,Female,0,Married,Cooly,10000,Yes
+819,Female,12,Married,Cooly,6000,Yes
+820,Male,12,Married,Cooly,10000,Yes
+821,Male,0,Married,Cooly,3000,Yes
+822,Female,15,Married,House wife,10000,Yes
+823,Female,4,Married,Cooly,8000,Yes
+824,Female,10,Married,Cooly,10000,Yes
+825,Female,10,Married,Cooly,12000,Yes
+826,Female,12,Married,Cooly,10000,Yes
+827,Female,7,Married,Cooly,9000,Yes
+828,Female,4,Married,Cooly,10000,Yes
+829,Female,12,Married,Cooly,10000,Yes
+830,Male,12,Un Married,0,8000,Yes
+831,Female,0,Married,Cooly,4000,Yes
+832,Female,0,Married,Cooly,3000,Yes
+833,Female,0,Married,Cooly,7000,Yes
+834,Male,0,Married,Cooly,8000,Yes
+835,Female,0,Married,Cooly,10000,Yes
+836,Female,10,Married,Cooly,8000,Yes
+837,Female,12,Married,Cooly,12000,Yes
+838,Female,5,Married,Cooly,8000,Yes
+839,Female,0,Married,Cooly,15000,Yes
+840,Male,0,Married,Cooly,4000,Yes
+841,Female,0,Married,Cooly,10000,Yes
+842,Female,0,Married,Cooly,15000,Yes
+843,Female,5,Married,Cooly,10000,Yes
+844,Male,10,Married,Cooly,10000,Yes
+845,Female,9,Married,Cooly,10000,Yes
+846,Female,12,Married,Cooly,10000,Yes
+847,Female,0,Married,Cooly,5000,Yes
+848,Female,12,Married,Cooly,7000,Yes
+849,Female,0,Married,Cooly,6000,Yes
+850,Female,0,Married,Cooly,10000,Yes
+851,Female,12,Married,Cooly,10000,Yes
+852,Female,0,Married,Cooly,10000,Yes
+853,Female,0,Married,Cooly,6000,Yes
+854,Female,9,Married,Cooly,10000,Yes
+855,Female,8,Married,House wife,12000,Yes
+856,Male,0,Married,Cooly,10000,Yes
+857,Male,0,Married,Cooly,10000,Yes
+858,Male,0,Married,Cooly,12000,Yes
+859,Male,12,Married,Cooly,15000,Yes
+860,Male,12,Married,Cooly,10000,Yes
+861,Male,0,Married,Cooly,12000,Yes
+862,Male,0,Married,Cooly,10000,Yes
+863,Female,12,Married,House wife,7000,Yes
+864,Female,10,Married,Cooly,5000,Yes
+865,Female,10,Married,House wife,7000,Yes
+866,Female,3,Married,Cooly,14000,Yes
+867,Female,10,Married,House wife,10000,Yes
+868,Female,0,Married,Cooly,10000,Yes
+869,Female,B.Ed,Un Married,Cooly,10000,Yes
+870,Female,5,Married,Cooly,12000,Yes
+871,Female,10,Married,Cooly,10000,Yes
+872,Female,BA,Married,Cooly,11000,Yes
+873,Female,0,Married,Pension,4000,Yes
+874,Female,10,Married,Cooly,22000,Yes
+875,Female,BA,Un Married,Student,24000,Yes
+876,Female,BA,Un Married,Student,40000,No
+877,Female,BA,Un Married,Student,20000,Yes
+878,Female,BA,Married,House wife,20000,Yes
+879,Female,BSC,Married,House wife,35000,No
+880,Female,MA,Un Married,Student,32000,No
+881,Female,BA,Un Married,Student,7500,Yes
+882,Female,10,Married,House wife,18000,Yes
+883,Female,BA,Married,House wife,40000,No
+884,Female,BA,Un Married,Un Employee,35000,No
+885,Female,12,Married,Cooly,9500,Yes
+886,Female,BA,Un Married,Student,5000,Yes
+887,Female,8,Married,House wife,30000,No
+888,Female,BA,Married,House wife,50000,No
+889,Female,BA,Un Married,Student,16000,Yes
+890,Female,B.Ed,Married,House wife,20000,Yes
+891,Female,BA,Married,House wife,9000,Yes
+892,Female,BA,Married,House wife,30000,No
+893,Female,BBA,Married,Un Employee,17500,Yes
+894,Female,BA,Un Married,Student,20000,Yes
+895,Female,BSC,Un Married,Student,50000,No
+896,Female,10,Married,Cooly,11000,Yes
+897,Female,BA,Un Married,Student,20000,Yes
+898,Female,12,Married,House wife,30000,No
+899,Female,BSC,Un Married,Student,65000,No
+900,Female,BSC,Married,House wife,15000,Yes
+901,Female,BA,Married,House wife,15000,Yes
+902,Female,BA,Married,House wife,10000,Yes
+903,Female,BA,Un Married,Teacher,20000,Yes
+904,Female,BA,Un Married,Un Employee,20000,Yes
+905,Female,12,Married,Cooly,15000,Yes
+906,Female,BA,Married,House wife,25000,Yes
+907,Female,BA,Married,Beautician,18000,Yes
+908,Female,B.Sc,Married,House wife,13000,Yes
+909,Female,BA,Married,Cooly,15000,Yes
+910,Female,B.Sc,Married,House wife,30000,Yes
+911,Female,BA,Un Married,Student,20000,Yes
+912,Female,M.sc,Married,House wife,30000,No
+913,Female,Msc,Married,House wife,40000,No
+914,Female,8,Married,House wife,30000,No
+915,Female,M.sc,Married,House wife,40000,No
+916,Female,BA,Married,Cooly,20000,Yes
+917,Female,7,Married,Cooly,27000,No
+918,Female,9,Married,Cooly,20000,Yes
+919,Female,10,Married,Cooly,15000,Yes
+920,Female,10,Married,Cooly,7000,Yes
+921,Female,7,Married,House wife,10000,Yes
+922,Female,5,Married,Cooly,20000,Yes
+923,Female,3,Married,Cooly,15000,Yes
+924,Female,5,Married,Cooly,10000,Yes
+925,Female,B.Sc,Un Married,Student,15000,Yes
+926,Female,8,Married,Cooly,13000,Yes
+927,Female,5,Married,Cooly,23000,Yes
+928,Female,5,Married,Cooly,10000,Yes
+929,Female,12,Married,Cooly,20000,Yes
+930,Female,12,Married,Cooly,5000,Yes
+931,Female,0,Married,Cooly,10000,Yes
+932,Female,10,Married,Cooly,13000,Yes
+933,Female,0,Married,Cooly,5000,Yes
+934,Female,12,Married,House wife,3000,Yes
+935,Female,12,Un Married,Cooly,5000,Yes
+936,Female,8,Married,Cooly,5000,Yes
+937,Female,5,Married,Cooly,5000,Yes
+938,Female,10,Married,Cooly,20000,Yes
+939,Female,8,Married,Tailer,12000,Yes
+940,Male,6,Un Married,Cooly,10000,Yes
+941,Female,10,Married,Cooly,15000,Yes
+942,Female,10,Married,Cooly,15000,Yes
+943,Female,5,Married,Cooly,10000,Yes
+944,Male,10,Married,Cooly,6000,Yes
+945,Female,8,Married,Cooly,4000,Yes
+946,Male,8,Married,House wife,6000,Yes
+947,Female,0,Married,House wife,7000,Yes
+948,Female,10,Married,Cooly,10000,Yes
+949,Female,12,Married,House wife,8000,Yes
+950,Female,10,Married,House wife,2000,Yes
+951,Female,10,Married,Cooly,7000,Yes
+952,Female,8,Married,Cooly,6000,Yes
+953,Female,8,Married,House wife,6000,Yes
+954,Female,4,Married,Cooly,7000,Yes
+955,Female,3,Married,Cooly,10000,Yes
+956,Male,5,Un Married,Cooly,8000,Yes
+957,Male,10,Un Married,Cooly,8000,Yes
+958,Male,0,Married,Cooly,3000,Yes
+959,Female,0,Married,Cooly,15000,Yes
+960,Male,12,Married,Cooly,5000,Yes
+961,Female,7,Married,House wife,0,Yes
+962,Male,12,Un Married,Cooly,0,Yes
+963,Male,7,Married,Cooly,30000,No
+964,Female,0,Married,Cooly,7000,Yes
+965,Female,0,Married,Cooly,20000,Yes
+966,Male,3,Married,Cooly,7000,Yes
+967,Female,10,Married,Tailer,20000,Yes
+968,Female,0,Married,House wife,1000,Yes
+969,Male,12,Married,Cooly,4000,Yes
+970,Male,10,Married,House wife,4000,Yes
+971,Female,12,Married,House wife,10000,Yes
+972,Female,6,Married,House wife,5000,Yes
+973,Female,7,Married,Cooly,11000,Yes
+974,Female,8,Married,pension,4000,Yes
+975,Female,10,Married,Cooly,22000,Yes
+976,Female,10,Un Married,Cooly,24000,Yes
+977,Female,7,Un Married,Cooly,40000,No
+978,Female,6,Un Married,Cooly,20000,Yes
+979,Female,12,Married,House wife,20000,Yes
+980,Female,10,Married,House wife,35000,No
+981,Female,12,Un Married,Cooly,32000,No
+982,Female,10,Un Married,Cooly,7500,Yes
+983,Female,10,Married,House wife,18000,Yes
+984,Female,9,Married,House wife,40000,No
+985,Female,BA,Un Married,Un Employee,35000,No
+986,Female,Diplomo,Married,Cooly,9500,Yes
+987,Female,12,Un Married,Cooly,5000,Yes
+988,Female,8,Married,House wife,30000,No
+989,Female,8,Married,House wife,50000,No
+990,Female,BA,Un Married,Student,16000,Yes
+991,Female,5,Married,House wife,20000,Yes
+992,Female,7,Married,House wife,9000,Yes
+993,Female,12,Married,House wife,30000,No
+994,Female,BBA,Married,Un Employee,17500,Yes
+995,Female,BA,Un Married,Student,20000,Yes
+996,Female,10,Un Married,Cooly,50000,No
+997,Female,10,Married,Cooly,11000,Yes
+998,Female,BA,Un Married,Student,20000,Yes
+999,Female,12,Married,House wife,30000,No
+1000,Female,7,Un Married,Cooly,65000,No
+1001,Female,10,Married,House wife,15000,Yes
+1002,Female,12,Married,House wife,15000,Yes
+1003,Female,BA,Married,House wife,10000,Yes
+1004,Female,4,Un Married,Teacher,20000,Yes
+1005,Female,10,Un Married,Cooly,20000,Yes
+1006,Female,12,Married,Cooly,15000,Yes
+1007,Female,7,Married,House wife,25000,Yes
+1008,Female,7,Married,Beautician,18000,Yes
+1009,Female,12,Married,House wife,13000,Yes
+1010,Female,10,Married,Cooly,15000,Yes
+1011,Female,5,Married,House wife,30000,No
+1012,Female,9,Un Married,Student,20000,Yes
+1013,Female,MSc,Married,House wife,18000,Yes
+1014,Female,7,Married,House wife,25000,Yes
+1015,Female,8,Married,House wife,20000,Yes
+1016,Female,12,Married,House wife,30000,No
+1017,Female,BA,Married,Cooly,20000,Yes
+1018,Female,7,Married,Cooly,27000,No
+1019,Female,9,Married,Cooly,20000,Yes
+1020,Female,10,Married,Cooly,15000,Yes
+1021,Female,10,Married,Cooly,7000,Yes
+1022,Female,5,Married,House wife,10000,Yes
+1023,Female,5,Married,Cooly,10000,Yes
+1024,Female,B.Sc,Un Married,Student,15000,Yes
+1025,Female,8,Married,Cooly,13000,Yes
+1026,Female,5,Married,Cooly,23000,Yes
+1027,Female,5,Married,Cooly,10000,Yes
+1028,Female,12,Married,Cooly,20000,Yes
+1029,Female,12,Married,Cooly,5000,Yes
+1030,Female,0,Married,Cooly,10000,Yes
+1031,Female,10,Married,Cooly,13000,Yes
+1032,Female,0,Married,Cooly,5000,Yes
+1033,Female,12,Married,House wife,3000,Yes
+1034,Female,12,Un Married,Cooly,5000,Yes
+1035,Female,8,Married,Cooly,5000,Yes
+1036,Female,5,Married,Cooly,5000,Yes
+1037,Female,10,Married,Cooly,20000,Yes
+1038,Female,8,Married,Tailer,12000,Yes
+1039,Male,6,Un Married,Cooly,10000,Yes
+1040,Female,10,Married,Cooly,15000,Yes
+1041,Female,10,Married,Cooly,2000,Yes
+1042,Female,5,Married,Cooly,10000,Yes
+1043,Male,10,Married,Cooly,6000,Yes
+1044,Female,8,Married,Cooly,4000,Yes
+1045,Male,8,Married,House wife,6000,Yes
+1046,Female,0,Married,House wife,7000,Yes
+1047,Female,10,Married,Cooly,10000,Yes
+1048,Female,12,Married,House wife,8000,Yes
+1049,Female,10,Married,House wife,2000,Yes
+1050,Female,10,Married,Cooly,7000,Yes
+1051,Female,8,Married,Cooly,6000,Yes
+1052,Female,8,Married,House wife,6000,Yes
+1053,Female,4,Married,Cooly,7000,Yes
+1054,Female,3,Married,Cooly,10000,Yes
+1055,Male,5,Un Married,Cooly,8000,Yes
+1056,Male,10,Un Married,Cooly,8000,Yes
+1057,Male,0,Married,Cooly,3000,Yes
+1058,Female,0,Married,Cooly,15000,Yes
+1059,Male,12,Married,Cooly,5000,Yes
+1060,Female,7,Married,House wife,0,Yes
+1061,Male,12,Un Married,Cooly,2000,Yes
+1062,Male,7,Married,Cooly,30000,Yes
+1063,Female,0,Married,Cooly,7000,Yes
+1064,Female,0,Married,Cooly,20000,Yes
+1065,Male,3,Married,Cooly,7000,Yes
+1066,Female,10,Married,Tailer,20000,Yes
+1067,Female,0,Married,House wife,1000,Yes
+1068,Male,12,Married,Cooly,4000,Yes
+1069,Male,10,Married,House wife,4000,Yes
+1070,Female,12,Married,House wife,10000,Yes
+1071,Female,6,Married,House wife,5000,Yes
+1072,Female,7,Married,Cooly,11000,Yes
+1073,Female,8,Married,pension,4000,Yes
+1074,Female,10,Married,Cooly,21500,Yes
+1075,Female,10,Un Married,Cooly,10000,Yes
+1076,Female,7,Un Married,Cooly,14000,Yes
+1077,Female,6,Un Married,Cooly,9000,Yes
+1078,Female,12,Married,House wife,10000,Yes
+1079,Female,10,Married,House wife,9000,Yes
+1080,Female,12,Un Married,Cooly,8000,Yes
+1081,Female,10,Un Married,Cooly,7500,Yes
+1082,Female,10,Married,House wife,18000,Yes
+1083,Female,9,Married,House wife,16000,Yes
+1084,Female,BA,Un Married,Un Employee,15000,Yes
+1085,Female,Diplomo,Married,Cooly,9500,Yes
+1086,Female,12,Un Married,Cooly,5000,Yes
+1087,Female,8,Married,House wife,12000,Yes
+1088,Female,8,Married,House wife,20000,Yes
+1089,Female,BA,Un Married,Student,16000,Yes
+1090,Female,5,Married,House wife,20000,Yes
+1091,Female,7,Married,House wife,9000,Yes
+1092,Female,12,Married,House wife,16000,Yes
+1093,Female,BBA,Married,Un Employee,17500,Yes
+1094,Female,BA,Un Married,Student,15000,Yes
+1095,Female,10,Un Married,Cooly,12000,Yes
+1096,Female,10,Married,Cooly,11000,Yes
+1097,Female,BA,Un Married,Student,13000,Yes
+1098,Female,12,Married,House wife,15000,Yes
+1099,Female,7,Un Married,Cooly,65000,No
+1100,Female,10,Married,House wife,15000,Yes
+1101,Female,12,Married,House wife,15000,Yes
+1102,Female,BA,Married,House wife,10000,Yes
+1103,Female,4,Un Married,Teacher,20000,Yes
+1104,Female,10,Un Married,Cooly,20000,Yes
+1105,Female,12,Married,Cooly,15000,Yes
+1106,Female,7,Married,House wife,9000,Yes
+1107,Female,7,Married,Beautician,18000,Yes
+1108,Female,12,Married,House wife,13000,Yes
+1109,Female,10,Married,Cooly,15000,Yes
+1110,Female,5,Married,House wife,10000,Yes
+1111,Female,9,Un Married,Student,20000,Yes
+1112,Female,MSc,Married,House wife,2000,Yes
+1113,Female,7,Married,House wife,8000,Yes
+1114,Female,8,Married,House wife,12000,Yes
+1115,Female,12,Married,House wife,15000,Yes
+1116,Female,BA,Married,Cooly,8000,Yes
+1117,Female,7,Married,Cooly,12000,Yes
+1118,Female,9,Married,Cooly,20000,Yes
+1119,Female,10,Married,Cooly,15000,Yes
+1120,Female,10,Married,Cooly,7000,Yes
+1121,Female,5,Married,House wife,10000,Yes
+1122,Female,5,Married,Cooly,10000,Yes
+1123,Female,1,Married,Cooly,12000,Yes
+1124,Female,3,Married,Cooly,6000,Yes
+1125,Female,8,Married,Cooly,14000,Yes
+1126,Female,10,Married,Cooly,7000,Yes
+1127,Male,0,Married,House wife,30000,No
+1128,Female,0,Married,House wife,8000,Yes
+1129,Female,5,Married,House wife,35000,Yes
+1130,Female,12,Married,House wife,10000,Yes
+1131,Female,5,Married,House wife,20000,Yes
+1132,Female,3,Married,House wife,20000,Yes
+1133,Male,9,Married,House wife,10000,Yes
+1134,Female,12,Married,House wife,10000,Yes
+1135,Female,4,Married,House wife,20000,Yes
+1136,Female,12,Married,House wife,10000,Yes
+1137,Male,7,Married,House wife,7000,Yes
+1138,Male,9,Married,House wife,20000,No
+1139,Female,0,Married,House wife,4000,Yes
+1140,Female,0,Married,House wife,10000,Yes
+1141,Male,MSC BED,Married,Teacher,10000,Yes
+1142,Male,8,Widower,Wever,6000,Yes
+1143,Female,0,Widow,Cooly,3000,Yes
+1144,Female,5,Married,Cooly,12000,Yes
+1145,Male,0,Married,Cooly,3000,Yes
+1146,Female,8,Married,Agricultre,15000,Yes
+1147,Female,0,Married,Cooly,7000,Yes
+1148,Female,MBC,Married,Cooly,6000,Yes
+1149,Female,BC,Married,Small Business,10000,Yes
+1150,Female,7,Married,Cooly,5000,Yes
+1151,Male,8,Married,House wife,30000,No
+1152,Female,0,Married,Cooly,4000,Yes
+1153,Female,12,Married,Cooly,10000,Yes
+1154,Female,10,Married,Cooly,7000,Yes
+1155,Female,0,Married,Cooly,5000,Yes
+1156,Female,0,Married,Cooly,10000,Yes
+1157,Female,8,Married,Cooly,7000,Yes
+1158,Female,5,Married,Cooly,10000,Yes
+1159,Female,0,Married,0,2000,Yes
+1160,Female,10,Married,Cooly,8000,Yes
+1161,Female,2,Married,0,2000,Yes
+1162,Female,0,Married,Cooly,10000,Yes
+1163,Female,0,Married,Cooly,8000,Yes
+1164,Female,10,Married,Cooly,10000,Yes
+1165,Male,0,Married,Cooly,8000,Yes
+1166,Female,9,Married,Cooly,10000,Yes
+1167,Female,5,Married,House wife,12000,Yes
+1168,Female,12,Married,House wife,12000,Yes
+1169,Female,9,Married,House wife,10000,Yes
+1170,Female,12,Married,House wife,10000,Yes
+1171,Female,12,Married,House wife,8000,Yes
+1172,Female,9,Married,House wife,10000,Yes
+1173,Female,10,Married,Cooly,12000,Yes
+1174,Female,10,Married,Cooly,10000,Yes
+1175,Female,12,Married,Cooly,12000,Yes
+1176,Female,12,Married,Cooly,10000,Yes
+1177,Female,0,Married,Cooly,15000,Yes
+1178,Female,9,Married,Cooly,6000,Yes
+1179,Female,12,Married,House wife,10000,Yes
+1180,Female,10,Married,House wife,15000,Yes
+1181,Female,0,Married,Cooly,14000,Yes
+1182,Female,12,Married,Cooly,8000,Yes
+1183,Female,0,Married,House wife,10000,Yes
+1184,Male,0,Married,House wife,10000,Yes
+1185,Male,0,Married,House wife,10000,Yes
+1186,Female,4,Married,House wife,5000,Yes
+1187,Female,12,Un Married,House wife,10000,Yes
+1188,Male,12,Married,Cooly,10000,Yes
+1189,Female,10,Married,Cooly,10000,Yes
+1190,Female,0,Married,Cooly,12000,Yes
+1191,Female,12,Married,House wife,10000,Yes
+1192,Female,12,Married,Cooly,12000,Yes
+1193,Female,0,Married,Cooly,7000,Yes
+1194,Female,12,Married,Cooly,6000,Yes
+1195,Female,7,Married,House wife,5000,Yes
+1196,Male,0,Married,House wife,4000,Yes
+1197,Female,0,Married,Cooly,15000,Yes
+1198,Female,10,Married,Cooly,15000,Yes
+1199,Female,5,Married,Cooly,4000,Yes
+1200,Female,7,Married,Cooly,7000,Yes
+1201,Female,0,Married,Cooly,5000,Yes
+1202,Female,0,Married,Cooly,20000,Yes
+1203,Female,5,Married,Cooly,10000,Yes
+1204,Female,6,Married,Work to school,7000,Yes
+1205,Female,8,Married,Cooly,8000,Yes
+1206,Male,0,Married,Cooly,5000,Yes
+1207,Female,10,Married,Cooly,8000,Yes
+1208,Male,0,Married,Cooly,20000,Yes
+1209,Female,10,Married,Cooly,8000,Yes
+1210,Male,5,Married,Cooly,7000,Yes
+1211,Female,7,Married,Cooly,10000,Yes
+1212,Female,4,Married,House wife,10000,Yes
+1213,Female,9,Married,Cooly,10000,Yes
+1214,Female,0,Married,Cooly,15000,Yes
+1215,Female,8,Married,House wife,20000,Yes
+1216,Female,7,Married,House wife,15000,Yes
+1217,Female,10,Married,House wife,15000,Yes
+1218,Female,12,Married,Cooly,7000,Yes
+1219,Female,12,Married,Cooly,10000,Yes
+1220,Female,5,Married,Cooly,7000,Yes
+1221,Female,12,Married,Cooly,10000,Yes
+1222,Female,12,Married,Cooly,5000,Yes
+1223,Female,BA Bed,Married,Teacher,15000,Yes
+1224,Female,BSc Bed,Married,Teacher,20000,Yes
+1225,Male,0,Married,House wife,10000,Yes
+1226,Female,BA Bed,Married,Teacher,10000,Yes
+1227,Female,0,Married,House wife,10000,Yes
+1228,Female,0,Married,House wife,10000,Yes
+1229,Female,0,Married,House wife,20000,Yes
+1230,Female,BSC,Married,bank work,18000,Yes
+1231,Female,10,Married,House wife,10000,Yes
+1232,Female,12,Married,House wife,10000,Yes
+1233,Female,0,Married,Cooly,5000,Yes
+1234,Male,8,Married,Cooly,15000,Yes
+1235,Female,0,Married,0,10000,Yes
+1236,Female,12,Married,Cooly,15000,Yes
+1237,Female,7,Married,Cooly,4000,Yes
+1238,Female,12,Married,Cooly,10000,Yes
+1239,Female,10,Married,Cooly,10000,Yes
+1240,Female,0,Married,Cooly,5000,Yes
+1241,Female,0,Married,Cooly,8000,Yes
+1242,Female,10,Married,Cooly,10000,Yes
+1243,Female,5,Married,House wife,10000,Yes
+1244,Female,9,Married,House wife,10000,Yes
+1245,Female,3,Married,Cooly,3000,Yes
+1246,Female,0,Married,Cooly,10000,Yes
+1247,Female,12,Married,Cooly,5000,Yes
+1248,Male,12,Married,Cooly,8000,Yes
+1249,Male,10,Married,Cooly,4000,Yes
+1250,Male,9,Married,Cooly,8000,Yes
+1251,Female,0,Married,Cooly,2000,Yes
+1252,Female,10,Married,Cooly,10000,Yes
+1253,Male,12,Married,Cooly,8000,Yes
+1254,Female,0,Married,Cooly,2000,Yes
+1255,Female,0,Married,House wife,3000,Yes
+1256,Female,12,Married,Cooly,15000,Yes
+1257,Female,12,Married,Cooly,1000,Yes
+1258,Female,10,Married,Cooly,15000,Yes
+1259,Female,10,Married,House wife,10000,Yes
+1260,Female,12,Married,0,5000,Yes
+1261,Female,12,Married,Cooly,7000,Yes
+1262,Male,0,Married,Cooly,10000,Yes
+1263,Male,0,Married,Cooly,8000,Yes
+1264,Female,12,Married,Cooly,10000,Yes
+1265,Female,3,Married,Cooly,8000,Yes
+1266,Male,0,Married,Cooly,7000,Yes
+1267,Male,0,Married,Cooly,10000,Yes
+1268,Female,12,Married,Cooly,15000,Yes
+1269,Male,0,Married,Cooly,4000,Yes
+1270,Male,5,Married,Cooly,10000,Yes
+1271,Female,9,Married,Cooly,10000,Yes
+1272,Female,0,Married,Cooly,2000,Yes
+1273,Male,12,Married,Cooly,10000,Yes
+1274,Female,12,Married,Cooly,10000,Yes
+1275,Female,10,Married,Cooly,10000,Yes
+1276,Female,11,Married,Cooly,10000,Yes
+1277,Female,10,Married,Cooly,6000,Yes
+1278,Male,0,Married,0,2000,Yes
+1279,Female,10,Married,Cooly,10000,Yes
+1280,Female,12,Married,Cooly,10000,Yes
+1281,Female,5,Married,Cooly,8000,Yes
+1282,Female,3,Married,Cooly,10000,Yes
+1283,Female,0,Married,Cooly,10000,Yes
+1284,Female,2,Married,Cooly,6000,Yes
+1285,Male,10,Married,Cooly,10000,Yes
+1286,Male,0,Married,Cooly,3000,Yes
+1287,Female,12,Married,House wife,10000,Yes
+1288,Female,4,Married,Cooly,8000,Yes
+1289,Female,12,Married,Cooly,10000,Yes
+1290,Female,5,Married,Cooly,12000,Yes
+1291,Female,3,Married,Cooly,10000,Yes
+1292,Female,5,Married,Cooly,9000,Yes
+1293,Female,0,Married,Cooly,10000,Yes
+1294,Female,12,Married,Cooly,10000,Yes
+1295,Male,12,Un Married,0,8000,Yes
+1296,Female,0,Married,Cooly,4000,Yes
+1297,Female,0,Married,Cooly,3000,Yes
+1298,Female,0,Married,Cooly,7000,Yes
+1299,Male,0,Married,Cooly,8000,Yes
+1300,Female,4,Married,Cooly,10000,Yes
+1301,Female,8,Married,Cooly,8000,Yes
+1302,Female,10,Married,Cooly,12000,Yes
+1303,Female,11,Married,Cooly,8000,Yes
+1304,Female,0,Married,Cooly,15000,Yes
+1305,Male,0,Married,Cooly,4000,Yes
+1306,Female,0,Married,Cooly,10000,Yes
+1307,Female,0,Married,Cooly,15000,Yes
+1308,Female,3,Married,Cooly,10000,Yes
+1309,Male,7,Married,Cooly,10000,Yes
+1310,Female,12,Married,Cooly,10000,Yes
+1311,Female,12,Married,Cooly,10000,Yes
+1312,Female,0,Married,Cooly,5000,Yes
+1313,Female,12,Married,Cooly,7000,Yes
+1314,Female,8,Married,Cooly,6000,Yes
+1315,Female,5,Married,Cooly,10000,Yes
+1316,Female,10,Married,Cooly,10000,Yes
+1317,Female,6,Married,Cooly,10000,Yes
+1318,Female,7,Married,Cooly,6000,Yes
+1319,Female,9,Married,Cooly,10000,Yes
+1320,Female,10,Married,Cooly,12000,Yes
+1321,Male,3,Married,Cooly,10000,Yes
+1322,Male,4,Married,Cooly,10000,Yes
+1323,Female,5,Married,Cooly,10000,Yes
+1324,Female,1,Married,Cooly,12000,Yes
+1325,Female,3,Married,Cooly,6000,Yes
+1326,Female,8,Married,Cooly,14000,Yes
+1327,Female,10,Married,Cooly,7000,Yes
+1328,Male,0,Married,House wife,30000,No
+1329,Female,0,Married,House wife,8000,Yes
+1330,Female,5,Married,House wife,35000,No
+1331,Female,12,Married,House wife,10000,Yes
+1332,Female,5,Married,House wife,20000,Yes
+1333,Female,3,Married,House wife,20000,Yes
+1334,Male,9,Married,House wife,10000,Yes
+1335,Female,12,Married,House wife,10000,Yes
+1336,Female,4,Married,House wife,20000,Yes
+1337,Female,12,Married,House wife,10000,Yes
+1338,Male,7,Married,House wife,7000,Yes
+1339,Male,9,Married,House wife,20000,No
+1340,Female,0,Married,House wife,4000,Yes
+1341,Female,0,Married,House wife,10000,Yes
+1342,Male,MA BED,Married,Teacher,10000,Yes
+1343,Male,8,Widower,Wever,6000,Yes
+1344,Female,0,Widow,Cooly,3000,Yes
+1345,Female,5,Married,Cooly,12000,Yes
+1346,Male,0,Married,Cooly,3000,Yes
+1347,Female,8,Married,Agricultre,15000,Yes
+1348,Female,0,Married,Cooly,7000,Yes
+1349,Female,12,Married,Cooly,6000,Yes
+1350,Female,12,Married,Small Business,10000,Yes
+1351,Female,7,Married,Cooly,5000,Yes
+1352,Male,8,Married,House wife,30000,No
+1353,Female,0,Married,Cooly,4000,Yes
+1354,Female,12,Married,Cooly,10000,Yes
+1355,Female,10,Married,Cooly,7000,Yes
+1356,Female,0,Married,Cooly,5000,Yes
+1357,Female,0,Married,Cooly,10000,Yes
+1358,Female,8,Married,Cooly,7000,Yes
+1359,Female,5,Married,Cooly,10000,Yes
+1360,Female,0,Married,0,2000,Yes
+1361,Female,10,Married,Cooly,8000,Yes
+1362,Female,2,Married,0,2000,Yes
+1363,Female,0,Married,Cooly,10000,Yes
+1364,Female,0,Married,Cooly,8000,Yes
+1365,Female,10,Married,Cooly,10000,Yes
+1366,Male,0,Married,Cooly,8000,Yes
+1367,Female,9,Married,Cooly,10000,Yes
+1368,Female,5,Married,Cooly,12000,Yes
+1369,Female,12,Married,Cooly,12000,Yes
+1370,Female,9,Married,Cooly,10000,Yes
+1371,Female,12,Married,Cooly,10000,Yes
+1372,Female,12,Married,Cooly,8000,Yes
+1373,Female,9,Married,Cooly,10000,Yes
+1374,Female,10,Married,Cooly,12000,Yes
+1375,Female,10,Married,Cooly,10000,Yes
+1376,Female,12,Married,Cooly,12000,Yes
+1377,Female,12,Married,Cooly,10000,Yes
+1378,Female,0,Married,Cooly,15000,Yes
+1379,Female,9,Married,Cooly,6000,Yes
+1380,Female,12,Married,Cooly,10000,Yes
+1381,Female,10,Married,Cooly,15000,Yes
+1382,Female,0,Married,Cooly,14000,Yes
+1383,Female,12,Married,Cooly,8000,Yes
+1384,Female,0,Married,Cooly,10000,Yes
+1385,Male,0,Married,Cooly,10000,Yes
+1386,Male,0,Married,Cooly,10000,Yes
+1387,Female,4,Married,Cooly,5000,Yes
+1388,Female,12,Un Married,Cooly,10000,Yes
+1389,Male,12,Married,Cooly,10000,Yes
+1390,Female,10,Married,Cooly,10000,Yes
+1391,Female,0,Married,Cooly,12000,Yes
+1392,Female,12,Married,Cooly,10000,Yes
+1393,Female,12,Married,Cooly,12000,Yes
+1394,Female,0,Married,Cooly,7000,Yes
+1395,Female,12,Married,Cooly,6000,Yes
+1396,Female,7,Married,Cooly,5000,Yes
+1397,Male,0,Married,Cooly,4000,Yes
+1398,Female,0,Married,Cooly,15000,Yes
+1399,Female,10,Married,Cooly,15000,Yes
+1400,Female,5,Married,Cooly,4000,Yes
+1401,Female,7,Married,Cooly,7000,Yes
+1402,Female,0,Married,Cooly,5000,Yes
+1403,Female,0,Married,Cooly,20000,Yes
+1404,Female,5,Married,Cooly,10000,Yes
+1405,Female,6,Married,Work to school,7000,Yes
+1406,Female,8,Married,Cooly,8000,Yes
+1407,Male,0,Married,Cooly,5000,Yes
+1408,Female,10,Married,Cooly,8000,Yes
+1409,Male,0,Married,Cooly,20000,Yes
+1410,Female,10,Married,Cooly,8000,Yes
+1411,Male,5,Married,Cooly,7000,Yes
+1412,Female,0,Married,Cooly,10000,Yes
+1413,Female,12,Married,Cooly,10000,Yes
+1414,Female,12,Married,Cooly,10000,Yes
+1415,Female,12,Married,Cooly,15000,Yes
+1416,Female,8,Married,Cooly,20000,Yes
+1417,Female,9,Married,Cooly,15000,Yes
+1418,Female,10,Married,Cooly,15000,Yes
+1419,Female,10,Married,Cooly,7000,Yes
+1420,Female,12,Married,Cooly,10000,Yes
+1421,Female,4,Married,Cooly,7000,Yes
+1422,Female,10,Married,Cooly,10000,Yes
+1423,Female,BA,Un Married,Student,25000,Yes
+1424,Female,BA,Un Married,Student,20000,Yes
+1425,Female,CS,Married,House wife,15000,Yes
+1426,Female,BSC,Married,House wife,20000,Yes
+1427,Female,MA,Un Married,Student,15000,Yes
+1428,Female,BA,Un Married,Student,7500,Yes
+1429,Female,10,Married,House wife,18000,Yes
+1430,Female,BA,Married,House wife,20000,Yes
+1431,Female,CS,Un Married,Un Employee,20000,Yes
+1432,Female,12,Married,Cooly,9500,Yes
+1433,Female,BA,Un Married,Student,5000,Yes
+1434,Female,8,Married,House wife,30000,Yes
+1435,Female,B.COM,Married,House wife,15000,Yes
+1436,Female,CS,Un Married,Student,16000,Yes
+1437,Female,B.Ed,Married,House wife,20000,Yes
+1438,Female,BA,Married,House wife,9000,Yes
+1439,Female,BBA,Married,House wife,25000,Yes
+1440,Female,BBA,Married,Un Employee,17500,Yes
+1441,Female,CS,Un Married,Student,20000,Yes
+1442,Female,BSC,Un Married,Student,26000,No
+1443,Female,10,Married,Cooly,11000,Yes
+1444,Female,BA,Un Married,Student,20000,Yes
+1445,Female,12,Married,House wife,17000,Yes
+1446,Female,BSC,Un Married,Student,10000,Yes
+1447,Female,B.SC,Married,House wife,15000,Yes
+1448,Female,BA,Married,House wife,15000,Yes
+1449,Female,CS,Married,House wife,10000,Yes
+1450,Female,B.SC,Un Married,Teacher,20000,Yes
+1451,Female,BA,Un Married,Un Employee,10000,Yes
+1452,Female,12,Married,Cooly,15000,Yes
+1453,Female,M.SC,Married,House wife,25000,Yes
+1454,Female,BA,Married,Beautician,18000,Yes
+1455,Female,B.Sc,Married,House wife,13000,Yes
+1456,Female,BA,Married,Cooly,15000,Yes
+1457,Female,B.Sc,Married,House wife,20000,Yes
+1458,Female,BA,Un Married,Student,15000,Yes
+1459,Female,M.SC,Married,House wife,15000,Yes
+1460,Female,MA,Married,House wife,20000,Yes
+1461,Female,8,Married,House wife,16000,Yes
+1462,Female,M.sc,Married,House wife,20000,Yes
+1463,Female,BA,Married,Cooly,15000,Yes
+1464,Female,7,Married,Cooly,27000,No
+1465,Female,9,Married,Cooly,20000,Yes
+1466,Female,10,Married,Cooly,15000,Yes
+1467,Female,10,Married,Cooly,15000,Yes
+1468,Female,7,Married,House wife,10000,Yes
+1469,Female,5,Married,Cooly,20000,Yes
+1470,Female,3,Married,Cooly,15000,Yes
+1471,Female,5,Married,Cooly,10000,Yes
+1472,Female,B.Sc,Un Married,Student,15000,Yes
+1473,Female,8,Married,Cooly,13000,Yes
+1474,Female,5,Married,Cooly,23000,Yes
+1475,Female,5,Married,Cooly,10000,Yes
+1476,Female,12,Married,Cooly,20000,Yes
+1477,Female,12,Married,Cooly,20000,Yes
+1478,Female,0,Married,Cooly,10000,Yes
+1479,Female,10,Married,Cooly,13000,Yes
+1480,Female,0,Married,Cooly,5000,Yes
+1481,Female,12,Married,House wife,7000,Yes
+1482,Female,12,Un Married,Cooly,8000,Yes
+1483,Female,8,Married,Cooly,7000,Yes
+1484,Female,5,Married,Cooly,8000,Yes
+1485,Female,10,Married,Cooly,13000,Yes
+1486,Female,8,Married,Tailer,12000,Yes
+1487,Male,6,Un Married,Student,10000,No
+1488,Female,10,Married,Cooly,15000,Yes
+1489,Female,10,Married,Cooly,2000,Yes
+1490,Female,5,Married,Cooly,10000,Yes
+1491,Male,10,Married,Cooly,6000,Yes
+1492,Female,8,Married,Cooly,10000,Yes
+1493,Male,8,Married,House wife,9000,No
+1494,Female,0,Married,House wife,10000,Yes
+1495,Female,10,Married,Cooly,14000,Yes
+1496,Female,12,Married,House wife,8000,Yes
+1497,Female,10,Married,House wife,2000,Yes
+1498,Female,10,Married,Cooly,7000,Yes
+1499,Female,12,Married,Cooly,8000,Yes
+1500,Female,8,Married,House wife,6000,Yes
+1501,Female,4,Married,Cooly,10000,Yes
+1502,Female,3,Married,Cooly,10000,Yes
+1503,Male,5,Un Married,Cooly,12000,Yes
+1504,Male,10,Un Married,Cooly,10000,Yes
+1505,Male,0,Married,Cooly,3000,Yes
+1506,Female,0,Married,Cooly,3000,Yes
+1507,Male,12,Married,Cooly,5000,Yes
+1508,Female,7,Married,House wife,0,Yes
+1509,Male,12,Un Married,Cooly,2000,Yes
+1510,Male,7,Married,Cooly,20000,Yes
+1511,Female,0,Married,Cooly,7000,Yes
+1512,Female,0,Married,Cooly,20000,Yes
+1513,Male,3,Married,Cooly,7000,Yes
+1514,Female,10,Married,Tailer,20000,Yes
+1515,Female,0,Married,House wife,1000,Yes
+1516,Male,12,Married,Cooly,4000,Yes
+1517,Male,10,Married,House wife,4000,Yes
+1518,Female,12,Married,House wife,10000,Yes
+1519,Female,6,Married,House wife,5000,Yes
+1520,Female,7,Married,Cooly,11000,Yes
+1521,Female,8,Married,pension,4000,Yes
+1522,Female,10,Married,Cooly,22000,Yes
+1523,Female,10,Un Married,Cooly,24000,Yes
+1524,Female,7,Un Married,Cooly,40000,No
+1525,Female,6,Un Married,Cooly,20000,Yes
+1526,Female,12,Married,House wife,20000,Yes
+1527,Female,10,Married,House wife,25000,Yes
+1528,Female,12,Un Married,Cooly,20000,Yes
+1529,Female,10,Un Married,Cooly,7500,Yes
+1530,Female,10,Married,House wife,18000,Yes
+1531,Female,9,Married,House wife,25000,Yes
+1532,Female,BA,Un Married,Un Employee,20000,Yes
+1533,Female,Diplomo,Married,Cooly,9500,Yes
+1534,Female,12,Un Married,Cooly,5000,Yes
+1535,Female,8,Married,House wife,30000,No
+1536,Female,8,Married,House wife,50000,No
+1537,Female,BA,Un Married,Student,16000,Yes
+1538,Female,5,Married,House wife,20000,Yes
+1539,Female,7,Married,House wife,9000,Yes
+1540,Female,12,Married,House wife,15000,Yes
+1541,Female,BBA,Married,Watchman,17500,Yes
+1542,Female,BA,Un Married,Student,20000,Yes
+1543,Female,10,Un Married,Cooly,30000,No
+1544,Female,10,Married,Cooly,11000,Yes
+1545,Female,BA,Un Married,Student,20000,Yes
+1546,Female,12,Married,House wife,20000,Yes
+1547,Female,7,Un Married,Cooly,17000,Yes
+1548,Female,10,Married,House wife,15000,Yes
+1549,Female,12,Married,House wife,15000,Yes
+1550,Female,BA,Married,House wife,10000,Yes
+1551,Female,4,Un Married,Teacher,20000,Yes
+1552,Female,10,Un Married,Cooly,20000,Yes
+1553,Female,12,Married,Cooly,15000,Yes
+1554,Female,7,Married,House wife,25000,Yes
+1555,Female,7,Married,Beautician,20000,Yes
+1556,Female,12,Married,House wife,13000,Yes
+1557,Female,10,Married,Cooly,15000,Yes
+1558,Female,5,Married,House wife,30000,No
+1559,Female,9,Un Married,Student,15000,Yes
+1560,Female,MSc,Married,House wife,25000,Yes
+1561,Female,7,Married,House wife,20000,Yes
+1562,Female,8,Married,House wife,30000,No
+1563,Female,12,Married,House wife,40000,No
+1564,Female,CS,Married,Cooly,20000,Yes
+1565,Female,7,Married,Cooly,27000,Yes
+1566,Female,9,Married,Cooly,20000,Yes
+1567,Female,10,Married,Cooly,15000,Yes
+1568,Female,10,Married,Cooly,10000,Yes
+1569,Female,5,Married,House wife,10000,Yes
+1570,Female,B.SC,Married,House wife,12000,Yes
+1571,Female,12,Married,House wife,10000,Yes
+1572,Female,B.SC,Married,House wife,15000,Yes
+1573,Female,BA,Un Married,Student,25000,Yes
+1574,Female,BA,Un Married,Student,20000,Yes
+1575,Female,CS,Married,House wife,15000,Yes
+1576,Female,BSC,Married,House wife,20000,Yes
+1577,Female,MA,Un Married,Student,15000,Yes
+1578,Female,BA,Un Married,Student,7500,Yes
+1579,Female,10,Married,House wife,18000,Yes
+1580,Female,BA,Married,House wife,20000,Yes
+1581,Female,CS,Un Married,Un Employee,20000,Yes
+1582,Female,12,Married,Cooly,9500,Yes
+1583,Female,BA,Un Married,Student,9000,Yes
+1584,Female,8,Married,House wife,30000,No
+1585,Female,B.COM,Married,House wife,15000,Yes
+1586,Female,CS,Un Married,Student,16000,Yes
+1587,Female,B.Ed,Married,House wife,20000,Yes
+1588,Female,BA,Married,House wife,9000,Yes
+1589,Female,BBA,Married,House wife,25000,Yes
+1590,Female,BBA,Married,Un Employee,17500,Yes
+1591,Female,CS,Un Married,Student,20000,Yes
+1592,Female,BSC,Un Married,Student,26000,Yes
+1593,Female,10,Married,Cooly,11000,Yes
+1594,Female,BA,Un Married,Student,20000,Yes
+1595,Female,12,Married,House wife,17000,Yes
+1596,Female,BSC,Un Married,Student,10000,Yes
+1597,Female,B.SC,Married,House wife,15000,Yes
+1598,Female,BA,Married,House wife,15000,Yes
+1599,Female,CS,Married,House wife,10000,Yes
+1600,Female,B.SC,Un Married,Teacher,20000,Yes
+1601,Female,BA,Un Married,Un Employee,10000,Yes
+1602,Female,12,Married,Cooly,15000,Yes
+1603,Female,M.SC,Married,House wife,25000,Yes
+1604,Female,BA,Married,Beautician,18000,Yes
+1605,Female,B.Sc,Married,House wife,13000,Yes
+1606,Female,BA,Married,Cooly,15000,Yes
+1607,Female,B.Sc,Married,House wife,20000,Yes
+1608,Female,BA,Un Married,Student,15000,Yes
+1609,Female,M.SC,Married,House wife,15000,Yes
+1610,Female,MA,Married,House wife,20000,Yes
+1611,Female,8,Married,House wife,16000,Yes
+1612,Female,M.sc,Married,House wife,20000,Yes
+1613,Female,BA,Married,Cooly,15000,Yes
+1614,Female,7,Married,Cooly,27000,No
+1615,Female,9,Married,Cooly,20000,Yes
+1616,Female,10,Married,Cooly,15000,Yes
+1617,Female,10,Married,Cooly,15000,Yes
+1618,Female,7,Married,House wife,10000,Yes
+1619,Female,5,Married,Cooly,20000,Yes
+1620,Female,3,Married,Cooly,15000,Yes
+1621,Female,5,Married,Cooly,10000,Yes
+1622,Female,B.Sc,Un Married,Student,15000,Yes
+1623,Female,8,Married,Cooly,13000,Yes
+1624,Female,5,Married,Cooly,23000,Yes
+1625,Female,5,Married,Cooly,10000,Yes
+1626,Female,12,Married,Cooly,20000,Yes
+1627,Female,12,Married,Cooly,20000,Yes
+1628,Female,0,Married,Cooly,10000,Yes
+1629,Female,10,Married,Cooly,13000,Yes
+1630,Female,0,Married,Cooly,5000,Yes
+1631,Female,12,Married,House wife,7000,Yes
+1632,Female,12,Un Married,Cooly,9000,Yes
+1633,Female,8,Married,Cooly,10000,Yes
+1634,Female,5,Married,Cooly,10000,Yes
+1635,Female,10,Married,Cooly,13000,Yes
+1636,Female,8,Married,Tailer,12000,Yes
+1637,Male,6,Un Married,Student,10000,Yes
+1638,Female,10,Married,Cooly,15000,Yes
+1639,Female,10,Married,Cooly,2000,Yes
+1640,Female,5,Married,Cooly,10000,Yes
+1641,Male,10,Married,Cooly,6000,Yes
+1642,Female,8,Married,Cooly,12000,Yes
+1643,Male,8,Married,House wife,6000,Yes
+1644,Female,0,Married,House wife,15000,Yes
+1645,Female,10,Married,Cooly,10000,Yes
+1646,Female,12,Married,House wife,8000,Yes
+1647,Female,10,Married,House wife,2000,Yes
+1648,Female,10,Married,Cooly,7000,Yes
+1649,Female,12,Married,Cooly,10000,Yes
+1650,Female,8,Married,House wife,6000,Yes
+1651,Female,4,Married,Cooly,7000,Yes
+1652,Female,3,Married,Cooly,10000,Yes
+1653,Male,5,Un Married,Cooly,8000,Yes
+1654,Male,10,Un Married,Cooly,8000,Yes
+1655,Male,0,Married,Cooly,3000,Yes
+1656,Female,0,Married,Cooly,15000,Yes
+1657,Male,12,Married,Cooly,5000,Yes
+1658,Female,7,Married,House wife,0,Yes
+1659,Male,12,Un Married,Cooly,2000,Yes
+1660,Male,7,Married,Cooly,20000,Yes
+1661,Female,0,Married,Cooly,7000,Yes
+1662,Female,0,Married,Cooly,20000,Yes
+1663,Male,3,Married,Cooly,7000,Yes
+1664,Female,10,Married,Tailer,20000,Yes
+1665,Female,0,Married,House wife,1000,Yes
+1666,Male,12,Married,Cooly,4000,Yes
+1667,Male,10,Married,House wife,4000,Yes
+1668,Female,12,Married,House wife,10000,Yes
+1669,Female,6,Married,House wife,5000,Yes
+1670,Female,7,Married,Cooly,11000,Yes
+1671,Female,8,Married,pension,4000,Yes
+1672,Female,10,Married,Cooly,22000,Yes
+1673,Female,10,Un Married,Cooly,24000,Yes
+1674,Female,7,Un Married,Cooly,40000,No
+1675,Female,6,Un Married,Cooly,20000,Yes
+1676,Female,12,Married,House wife,20000,Yes
+1677,Female,10,Married,House wife,25000,Yes
+1678,Female,12,Un Married,Cooly,20000,Yes
+1679,Female,10,Un Married,Cooly,7500,Yes
+1680,Female,10,Married,House wife,18000,Yes
+1681,Female,9,Married,House wife,25000,Yes
+1682,Female,BA,Un Married,Un Employee,20000,Yes
+1683,Female,Diplomo,Married,Cooly,9500,Yes
+1684,Female,12,Un Married,Cooly,5000,Yes
+1685,Female,8,Married,House wife,30000,No
+1686,Female,8,Married,House wife,50000,No
+1687,Female,BA,Un Married,Student,16000,Yes
+1688,Female,5,Married,House wife,20000,Yes
+1689,Female,7,Married,House wife,9000,Yes
+1690,Female,12,Married,House wife,15000,Yes
+1691,Female,BBA,Married,Un Employee,17500,Yes
+1692,Female,BA,Un Married,Student,20000,Yes
+1693,Female,10,Un Married,Cooly,30000,No
+1694,Female,10,Married,Cooly,11000,Yes
+1695,Female,BA,Un Married,Student,20000,Yes
+1696,Female,12,Married,House wife,20000,Yes
+1697,Female,7,Un Married,Cooly,17000,Yes
+1698,Female,10,Married,House wife,15000,Yes
+1699,Female,12,Married,House wife,15000,Yes
+1700,Female,BA,Married,House wife,10000,Yes
+1701,Female,4,Un Married,Teacher,20000,Yes
+1702,Female,10,Un Married,Cooly,20000,Yes
+1703,Female,12,Married,Cooly,15000,Yes
+1704,Female,7,Married,House wife,25000,Yes
+1705,Female,7,Married,Beautician,18000,Yes
+1706,Female,12,Married,House wife,13000,Yes
+1707,Female,10,Married,Cooly,15000,Yes
+1708,Female,5,Married,House wife,22000,Yes
+1709,Female,9,Un Married,Student,20000,Yes
+1710,Female,MSc,Married,House wife,15000,Yes
+1711,Female,7,Married,House wife,20000,Yes
+1712,Female,8,Married,House wife,17000,Yes
+1713,Female,12,Married,House wife,25000,Yes
+1714,Female,CS,Married,Cooly,20000,Yes
+1715,Female,7,Married,Cooly,18000,Yes
+1716,Female,9,Married,Cooly,20000,Yes
+1717,Female,10,Married,Cooly,15000,Yes
+1718,Female,10,Married,Cooly,7000,Yes
+1719,Female,5,Married,House wife,10000,Yes
+1720,Female,B.SC,Married,House wife,12000,Yes
+1721,Female,12,Married,House wife,10000,Yes
+1722,Female,B.SC,Married,House wife,15000,Yes
+1723,Female,BA,Un Married,Student,25000,Yes
+1724,Female,BA,Un Married,Student,20000,Yes
+1725,Female,BA,Married,House wife,15000,Yes
+1726,Female,BSC,Married,House wife,20000,Yes
+1727,Female,MA,Un Married,Student,15000,Yes
+1728,Female,BA,Un Married,Student,7500,Yes
+1729,Female,10,Married,House wife,18000,Yes
+1730,Female,BA,Married,House wife,20000,Yes
+1731,Female,BA,Un Married,Un Employee,20000,Yes
+1732,Female,12,Married,Cooly,9500,Yes
+1733,Female,BA,Un Married,Student,5000,Yes
+1734,Female,8,Married,House wife,30000,No
+1735,Female,BA,Married,House wife,15000,Yes
+1736,Female,BA,Un Married,Student,16000,Yes
+1737,Female,B.Ed,Married,House wife,20000,Yes
+1738,Female,BA,Married,House wife,9000,Yes
+1739,Female,BA,Married,House wife,25000,Yes
+1740,Female,BBA,Married,Un Employee,17500,Yes
+1741,Female,BA,Un Married,Student,20000,Yes
+1742,Female,BSC,Un Married,Student,26000,Yes
+1743,Female,10,Married,Cooly,11000,Yes
+1744,Female,BA,Un Married,Student,20000,Yes
+1745,Female,12,Married,House wife,17000,Yes
+1746,Female,BSC,Un Married,Student,10000,Yes
+1747,Female,BSC,Married,House wife,15000,Yes
+1748,Female,BA,Married,House wife,15000,Yes
+1749,Female,BA,Married,House wife,10000,Yes
+1750,Female,BA,Un Married,Teacher,20000,Yes
+1751,Female,BA,Un Married,Un Employee,10000,Yes
+1752,Female,12,Married,Cooly,15000,Yes
+1753,Female,BA,Married,House wife,25000,Yes
+1754,Female,BA,Married,Beautician,18000,Yes
+1755,Female,B.Sc,Married,House wife,13000,Yes
+1756,Female,BA,Married,Cooly,15000,Yes
+1757,Female,B.Sc,Married,House wife,20000,Yes
+1758,Female,BA,Un Married,Student,15000,Yes
+1759,Female,M.sc,Married,House wife,15000,Yes
+1760,Female,Msc,Married,House wife,20000,Yes
+1761,Female,8,Married,House wife,16000,Yes
+1762,Female,M.sc,Married,House wife,20000,Yes
+1763,Female,BA,Married,Cooly,15000,Yes
+1764,Female,7,Married,Cooly,27000,Yes
+1765,Female,9,Married,Cooly,20000,Yes
+1766,Female,10,Married,Cooly,15000,Yes
+1767,Female,10,Married,Cooly,7000,Yes
+1768,Female,7,Married,House wife,10000,Yes
+1769,Female,5,Married,Cooly,20000,Yes
+1770,Female,3,Married,Cooly,15000,Yes
+1771,Female,5,Married,Cooly,10000,Yes
+1772,Female,B.Sc,Un Married,Student,15000,Yes
+1773,Female,8,Married,Cooly,13000,Yes
+1774,Female,5,Married,Cooly,23000,Yes
+1775,Female,5,Married,Cooly,10000,Yes
+1776,Female,12,Married,Cooly,20000,Yes
+1777,Female,12,Married,Cooly,20000,Yes
+1778,Female,0,Married,Cooly,10000,Yes
+1779,Female,10,Married,Cooly,13000,Yes
+1780,Female,0,Married,Cooly,5000,Yes
+1781,Female,12,Married,House wife,7000,Yes
+1782,Female,12,Un Married,Cooly,8000,Yes
+1783,Female,8,Married,Cooly,7000,Yes
+1784,Female,5,Married,Cooly,8000,Yes
+1785,Female,10,Married,Cooly,13000,Yes
+1786,Female,8,Married,Tailer,12000,Yes
+1787,Male,6,Un Married,Student,10000,Yes
+1788,Female,10,Married,Cooly,15000,Yes
+1789,Female,10,Married,Cooly,2000,Yes
+1790,Female,5,Married,Cooly,10000,Yes
+1791,Male,10,Married,Cooly,6000,Yes
+1792,Female,8,Married,Cooly,4000,Yes
+1793,Male,8,Married,House wife,6000,Yes
+1794,Female,0,Married,House wife,7000,Yes
+1795,Female,10,Married,Cooly,10000,Yes
+1796,Female,12,Married,House wife,8000,Yes
+1797,Female,10,Married,House wife,2000,Yes
+1798,Female,10,Married,Cooly,7000,Yes
+1799,Female,8,Married,Cooly,6000,Yes
+1800,Female,8,Married,House wife,6000,Yes
+1801,Female,4,Married,Cooly,7000,Yes
+1802,Female,3,Married,Cooly,10000,Yes
+1803,Male,5,Un Married,Cooly,8000,Yes
+1804,Male,10,Un Married,Cooly,8000,Yes
+1805,Male,0,Married,Cooly,3000,Yes
+1806,Female,0,Married,Cooly,15000,Yes
+1807,Male,12,Married,Cooly,5000,Yes
+1808,Female,7,Married,House wife,0,Yes
+1809,Male,12,Un Married,Cooly,0,Yes
+1810,Male,7,Married,Cooly,20000,Yes
+1811,Female,0,Married,Cooly,7000,Yes
+1812,Female,0,Married,Cooly,20000,Yes
+1813,Male,3,Married,Cooly,7000,Yes
+1814,Female,10,Married,Tailer,20000,Yes
+1815,Female,0,Married,House wife,1000,Yes
+1816,Male,12,Married,Cooly,4000,Yes
+1817,Male,10,Married,House wife,4000,Yes
+1818,Female,12,Married,House wife,10000,Yes
+1819,Female,6,Married,House wife,5000,Yes
+1820,Female,7,Married,Cooly,11000,Yes
+1821,Female,8,Married,pension,4000,Yes
+1822,Female,10,Married,Cooly,22000,Yes
+1823,Female,10,Un Married,Cooly,24000,Yes
+1824,Female,7,Un Married,Cooly,40000,Yes
+1825,Female,6,Un Married,Cooly,20000,Yes
+1826,Female,12,Married,House wife,20000,Yes
+1827,Female,10,Married,House wife,25000,Yes
+1828,Female,12,Un Married,Cooly,20000,Yes
+1829,Female,10,Un Married,Cooly,7500,Yes
+1830,Female,10,Married,House wife,18000,Yes
+1831,Female,9,Married,House wife,25000,Yes
+1832,Female,BA,Un Married,Un Employee,20000,Yes
+1833,Female,Diplomo,Married,Cooly,9500,Yes
+1834,Female,12,Un Married,Cooly,5000,Yes
+1835,Female,8,Married,House wife,30000,No
+1836,Female,8,Married,House wife,50000,No
+1837,Female,BA,Un Married,Student,16000,Yes
+1838,Female,5,Married,House wife,20000,Yes
+1839,Female,7,Married,House wife,9000,Yes
+1840,Female,12,Married,House wife,15000,Yes
+1841,Female,BBA,Married,Un Employee,17500,Yes
+1842,Female,BA,Un Married,Student,20000,Yes
+1843,Female,10,Un Married,Cooly,30000,No
+1844,Female,10,Married,Cooly,11000,Yes
+1845,Female,BA,Un Married,Student,20000,Yes
+1846,Female,12,Married,House wife,20000,Yes
+1847,Female,7,Un Married,Cooly,17000,Yes
+1848,Female,10,Married,House wife,15000,Yes
+1849,Female,12,Married,House wife,15000,Yes
+1850,Female,BA,Married,House wife,10000,Yes
+1851,Female,4,Un Married,Teacher,20000,Yes
+1852,Female,10,Un Married,Cooly,20000,Yes
+1853,Female,12,Married,Cooly,15000,Yes
+1854,Female,7,Married,House wife,25000,Yes
+1855,Female,7,Married,Beautician,18000,Yes
+1856,Female,12,Married,House wife,13000,Yes
+1857,Female,10,Married,Cooly,15000,Yes
+1858,Female,5,Married,House wife,30000,No
+1859,Female,9,Un Married,Student,20000,Yes
+1860,Female,MSc,Married,House wife,30000,No
+1861,Female,7,Married,House wife,40000,No
+1862,Female,8,Married,House wife,30000,No
+1863,Female,12,Married,House wife,40000,No
+1864,Female,BA,Married,Cooly,20000,Yes
+1865,Female,7,Married,Cooly,27000,Yes
+1866,Female,9,Married,Cooly,20000,Yes
+1867,Female,10,Married,Cooly,15000,Yes
+1868,Female,10,Married,Cooly,7000,Yes
+1869,Female,5,Married,House wife,10000,Yes
+1870,Male,B.SC,Un Married,Agriculture,10000,Yes
+1871,Female,12,Married,Cooly,10000,Yes
+1872,Female,8,Widow,0,0,Yes
+1873,Female,6,Widow,Cooly,4000,Yes
+1874,Female,6,Widow,Pension,6000,Yes
+1875,Female,10,Married,Security,8000,Yes
+1876,Male,10,Married,Driver,10000,Yes
+1877,Male,8,Married,0,0,Yes
+1878,Female,10,Married,Agriculture,7000,Yes
+1879,Male,8,Married,Cooly,7500,Yes
+1880,Male,10,Married,Cooly,8000,Yes
+1881,Female,0,Widow,Cooly,8000,Yes
+1882,Male,10,Married,Agriculture,8000,Yes
+1883,Male,ITI,Un Married,Cooly,8000,Yes
+1884,Male,Diploma,Married,Agriculture,8000,Yes
+1885,Male,11,Married,pension,10000,Yes
+1886,Male,9,Married,Agriculture,7000,Yes
+1887,Male,10,Married,pension,15000,Yes
+1888,Male,6,Married,Cooly,6000,Yes
+1889,Male,B.Com,Married,Cooly,8000,Yes
+1890,Male,10,Married,Cooly,8000,Yes
+1891,Male,10,Married,pension,15000,Yes
+1892,Female,2,Widow,Cooly,9000,Yes
+1893,Female,1,Married,Cooly,6000,Yes
+1894,Female,4,Widow,pension,7000,Yes
+1895,Female,5,Widow,Cooly,6000,Yes
+1896,Female,3,Widow,Agriculture,6000,Yes
+1897,Male,10,Married,Cooly,6000,Yes
+1898,Female,7,Married,Cooly,7000,Yes
+1899,Male,8,Un Married,Cooly,8000,Yes
+1900,Male,10,Married,Agriculture,10000,Yes
+1901,Female,10,Married,Cooly,0,Yes
+1902,Male,10,Married,Agriculture,8000,Yes
+1903,Female,0,Married,House wife,9000,Yes
+1904,Male,12,Married,Agriculture,7000,Yes
+1905,Female,0,Married,Agriculture,12000,Yes
+1906,Male,11,Un Married,Student,6000,Yes
+1907,Male,10,Un Married,Cooly,5000,Yes
+1908,Female,7,Married,Cooly,8000,Yes
+1909,Female,7,Married,Agriculture,6000,Yes
+1910,Female,12,Un Married,Agriculture,8000,Yes
+1911,Male,6,Married,Agriculture,5000,Yes
+1912,Female,12,Un Married,Cooly,15000,Yes
+1913,Male,8,Married,Cooly,5000,Yes
+1914,Female,10,Married,House Keeping,16000,Yes
+1915,Female,12,Un Married,Cooly,15000,Yes
+1916,Female,10,Married,Cooly,15000,Yes
+1917,Female,12,Married,House Keeping,16000,Yes
+1918,Male,12,Married,Agriculture,4000,Yes
+1919,Male,10,Married,Agriculture,7000,Yes
+1920,Male,B.SC,Un Married,Agriculture,10000,Yes
+1921,Female,12,Married,Cooly,10000,Yes
+1922,Female,8,Widow,0,0,Yes
+1923,Female,6,Widow,Cooly,4000,Yes
+1924,Female,6,Widow,Pension,6000,Yes
+1925,Female,10,Married,Security,8000,Yes
+1926,Male,10,Married,Driver,10000,Yes
+1927,Male,8,Married,0,0,Yes
+1928,Female,10,Married,Agriculture,7000,Yes
+1929,Male,8,Married,Cooly,7500,Yes
+1930,Male,10,Married,Cooly,8000,Yes
+1931,Female,0,Widow,Cooly,8000,Yes
+1932,Male,10,Married,Agriculture,8000,Yes
+1933,Male,ITI,Un Married,Cooly,8000,Yes
+1934,Male,Diploma,Married,Agriculture,8000,Yes
+1935,Male,11,Married,pension,10000,Yes
+1936,Male,9,Married,Agriculture,7000,Yes
+1937,Male,10,Married,pension,15000,Yes
+1938,Male,6,Married,Cooly,6000,Yes
+1939,Male,B.Com,Married,Cooly,8000,Yes
+1940,Male,10,Married,Cooly,8000,Yes
+1941,Male,10,Married,pension,15000,Yes
+1942,Female,2,Widow,Cooly,9000,Yes
+1943,Female,1,Married,Cooly,6000,Yes
+1944,Female,4,Widow,pension,7000,Yes
+1945,Female,5,Widow,Cooly,6000,Yes
+1946,Female,3,Widow,Agriculture,6000,Yes
+1947,Male,10,Married,Cooly,6000,Yes
+1948,Female,7,Married,Cooly,7000,Yes
+1949,Male,8,Un Married,Cooly,8000,Yes
+1950,Male,10,Married,Agriculture,10000,Yes
+1951,Female,10,Married,Cooly,0,Yes
+1952,Male,10,Married,Agriculture,8000,Yes
+1953,Female,0,Married,House wife,9000,Yes
+1954,Male,12,Married,Agriculture,7000,Yes
+1955,Female,0,Married,Agriculture,12000,Yes
+1956,Male,11,Un Married,Student,6000,Yes
+1957,Male,10,Un Married,Cooly,5000,Yes
+1958,Female,7,Married,Cooly,8000,Yes
+1959,Female,7,Married,Agriculture,6000,Yes
+1960,Female,12,Un Married,Agriculture,8000,Yes
+1961,Male,6,Married,Agriculture,5000,Yes
+1962,Female,12,Un Married,Cooly,15000,Yes
+1963,Male,8,Married,Cooly,5000,Yes
+1964,Female,10,Married,Agriculture,16000,Yes
+1965,Female,12,Un Married,Cooly,15000,Yes
+1966,Female,10,Married,Cooly,15000,Yes
+1967,Female,12,Married,Agriculture,16000,Yes
+1968,Male,12,Married,Agriculture,8000,Yes
+1969,Male,10,Married,Agriculture,7000,Yes
+1970,Female,8,Married,House wife,6000,Yes
+1971,Female,4,Married,Cooly,7000,Yes
+1972,Female,3,Married,Cooly,10000,Yes
+1973,Male,5,Un Married,Cooly,8000,Yes
+1974,Male,10,Un Married,Cooly,8000,Yes
+1975,Male,0,Married,Cooly,3000,Yes
+1976,Female,0,Married,Cooly,15000,Yes
+1977,Male,12,Married,Cooly,7500,Yes
+1978,Female,7,Married,House wife,0,Yes
+1979,Male,12,Un Married,Cooly,5000,Yes
+1980,Male,7,Married,Cooly,12000,Yes
+1981,Female,0,Married,Cooly,7000,Yes
+1982,Female,0,Married,Cooly,20000,Yes
+1983,Male,3,Married,Cooly,7000,Yes
+1984,Female,10,Married,Cooly,20000,Yes
+1985,Female,0,Married,House wife,1000,Yes
+1986,Male,12,Married,Cooly,4000,Yes
+1987,Male,10,Married,House wife,4000,Yes
+1988,Female,12,Married,House wife,10000,Yes
+1989,Female,6,Married,House wife,5000,Yes
+1990,Female,7,Married,Cooly,11000,Yes
+1991,Female,8,Married,pension,4000,Yes
+1992,Female,10,Married,Cooly,22000,Yes
+1993,Female,10,Un Married,Cooly,15000,Yes
+1994,Female,7,Un Married,Cooly,18000,Yes
+1995,Female,6,Un Married,Cooly,15000,Yes
+1996,Female,12,Married,House wife,15000,Yes
+1997,Female,10,Married,House wife,15000,Yes
+1998,Female,12,Un Married,Cooly,18000,Yes
+1999,Female,10,Un Married,Cooly,8000,Yes
+2000,Female,10,Married,House wife,15000,Yes
+2001,Female,9,Married,House wife,25000,Yes
+2002,Female,BA,Un Married,Un Employee,20000,Yes
+2003,Female,8,Married,Cooly,10000,Yes
+2004,Female,12,Un Married,Cooly,6000,Yes
+2005,Female,8,Married,House wife,25000,Yes
+2006,Female,8,Married,House wife,6000,Yes
+2007,Female,12,Un Married,Student,15000,Yes
+2008,Female,5,Married,House wife,18000,Yes
+2009,Female,7,Married,House wife,10000,Yes
+2010,Female,12,Married,House wife,16000,Yes
+2011,Female,BBA,Married,Un Employee,17500,Yes
+2012,Female,12,Un Married,Student,18000,Yes
+2013,Female,10,Un Married,Cooly,25000,Yes
+2014,Female,10,Married,Cooly,11000,Yes
+2015,Female,12,Un Married,Student,18000,yes
+2016,Female,12,Married,House wife,15000,Yes
+2017,Female,7,Un Married,Cooly,17000,Yes
+2018,Female,10,Married,House wife,12000,Yes
+2019,Female,12,Married,House wife,15000,Yes
+2020,Female,12,Married,House wife,12000,Yes
