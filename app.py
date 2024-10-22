@@ -2,14 +2,17 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import OneHotEncoder
-from sklearn.metrics import accuracy_score, f1_score
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, precision_recall_curve
 from explainerdashboard import ClassifierExplainer, ExplainerDashboard
 from explainerdashboard.custom import *
 import dash_bootstrap_components as dbc
 from dash import dcc, html
+import matplotlib.pyplot as plt
 from fastapi import FastAPI
 from starlette.middleware.wsgi import WSGIMiddleware
 import uvicorn
+import io
+import base64
 
 # Load the data
 data = pd.read_csv("pdsvul.csv")
@@ -37,11 +40,29 @@ rf_classifier.fit(X_train, y_train)
 
 # Model Performance Metrics
 y_pred = rf_classifier.predict(X_test)
+y_prob = rf_classifier.predict_proba(X_test)[:, 1]
 accuracy = accuracy_score(y_test, y_pred)
 f1 = f1_score(y_test, y_pred)
+precision = precision_score(y_test, y_pred)
+recall = recall_score(y_test, y_pred)
 
 # Create an explainer object for the dashboard
 explainer = ClassifierExplainer(rf_classifier, X_test, y_test)
+
+# Create a precision-recall curve plot
+def create_precision_recall_plot():
+    precision_vals, recall_vals, _ = precision_recall_curve(y_test, y_prob)
+    fig, ax = plt.subplots()
+    ax.plot(recall_vals, precision_vals, marker='.', label='RandomForest')
+    ax.set_xlabel('Recall')
+    ax.set_ylabel('Precision')
+    ax.set_title('Precision-Recall Curve')
+    ax.legend()
+    buf = io.BytesIO()
+    plt.savefig(buf, format='png')
+    plt.close(fig)
+    buf.seek(0)
+    return base64.b64encode(buf.getvalue()).decode('utf-8')
 
 # Custom dashboard using explainerdashboard components
 class CustomDashboard(ExplainerComponent):
@@ -50,6 +71,9 @@ class CustomDashboard(ExplainerComponent):
         self.shap_summary = ShapSummaryComponent(explainer)
         self.feature_importance = ImportancesComponent(explainer)
         self.dependence = ShapDependenceComponent(explainer, col="Gender_Male")
+        self.confusion_matrix = ConfusionMatrixComponent(explainer)
+        self.feature_input = FeatureInputComponent(explainer)
+        self.pr_curve_img = create_precision_recall_plot()
 
     def layout(self):
         return dbc.Container(
@@ -57,11 +81,11 @@ class CustomDashboard(ExplainerComponent):
                 # Split into two halves: Model Info on the left, Explainability on the right
                 dbc.Row(
                     [
-                        # Left Half: Model Info and Problem Description
+                        # Left Half: Model Info, Inputs, and Prediction Result
                         dbc.Col(
                             dbc.Card(
                                 [
-                                    dbc.CardHeader(html.H4("Model Overview and Classification Problem", className="text-primary")),
+                                    dbc.CardHeader(html.H4("Model Overview, Inputs, and Prediction", className="text-primary")),
                                     dbc.CardBody(
                                         [
                                             html.H5("Classification Problem", className="mt-3"),
@@ -81,23 +105,32 @@ class CustomDashboard(ExplainerComponent):
                                                 [
                                                     html.Li(f"Accuracy: {accuracy:.2%}", className="text-muted"),
                                                     html.Li(f"F1 Score: {f1:.2%}", className="text-muted"),
-                                                    html.Li("Precision, Recall: Calculated for class balance", className="text-muted"),
+                                                    html.Li(f"Precision: {precision:.2%}", className="text-muted"),
+                                                    html.Li(f"Recall: {recall:.2%}", className="text-muted"),
                                                 ],
                                                 style={'fontSize': '1rem'}
                                             ),
-                                            html.H5("Inputs:", className="mt-3"),
-                                            html.P(
-                                                "Key inputs include socio-economic indicators like education levels, job types, and income ranges, allowing the model to learn patterns related to vulnerability.",
-                                                className="card-text text-muted",
-                                                style={'fontSize': '1rem'}
+                                            html.H5("Input Data for Prediction:", className="mt-3"),
+                                            # Input fields for each feature
+                                            html.Div(
+                                                [
+                                                    dcc.Input(id='input-education', type='text', placeholder='Education', className='mb-2'),
+                                                    dcc.Input(id='input-occupation', type='text', placeholder='Occupation', className='mb-2'),
+                                                    dcc.Input(id='input-income', type='number', placeholder='Total Income', className='mb-2'),
+                                                    dcc.Input(id='input-gender', type='text', placeholder='Gender', className='mb-2'),
+                                                ],
+                                                className="mb-3"
                                             ),
+                                            html.Button('Predict', id='predict-button', n_clicks=0, className='btn btn-primary'),
+                                            html.H5("Prediction Result:", className="mt-4"),
+                                            html.Div(id='prediction-output', className="text-success font-weight-bold")
                                         ]
                                     ),
                                 ],
                                 className="shadow-sm animate__animated animate__fadeInLeft",
                                 style={'borderRadius': '15px', 'border': '1px solid #007bff'}
                             ),
-                            width=6  # Takes 50% of the page width
+                            width=6
                         ),
                         
                         # Right Half: Explainable AI Components
@@ -113,18 +146,22 @@ class CustomDashboard(ExplainerComponent):
                                             self.feature_importance.layout(),
                                             html.H5(f"Dependence Plot for 'Gender_Male'", className="mt-4"),
                                             self.dependence.layout(),
+                                            html.H5("Model Confusion Matrix", className="mt-4"),
+                                            self.confusion_matrix.layout(),
+                                            html.H5("Precision-Recall Curve", className="mt-4"),
+                                            html.Img(src=f"data:image/png;base64,{self.pr_curve_img}", style={'width': '100%'}),
                                         ]
                                     ),
                                 ],
                                 className="shadow-sm animate__animated animate__fadeInRight",
                                 style={'borderRadius': '15px', 'border': '1px solid #28a745'}
                             ),
-                            width=6  # Takes 50% of the page width
+                            width=6
                         ),
                     ],
                     className="mt-4"
                 ),
-
+                
                 # Footer Section
                 dbc.Row(
                     dbc.Col(
