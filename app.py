@@ -192,7 +192,16 @@ dashboard = ExplainerDashboard(
 server = FastAPI()
 server.mount("/", WSGIMiddleware(dashboard.flask_server()))
 
+from fastapi import FastAPI
 
-if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 8000))  # Default to 8000 if PORT is not set
-    uvicorn.run("app:server", host="0.0.0.0", port=port, reload=True)
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
+
+if __name__ == "__main__":
+    import os
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
