@@ -6,13 +6,14 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from explainerdashboard import ClassifierExplainer, ExplainerDashboard
 from explainerdashboard.custom import *
 import dash_bootstrap_components as dbc
-from dash import dcc, html
+from dash import dcc, html, Input, Output
 import matplotlib.pyplot as plt
 from fastapi import FastAPI
 from starlette.middleware.wsgi import WSGIMiddleware
 import uvicorn
 import io
 import base64
+import os
 
 # Load the data
 data = pd.read_csv("pdsvul.csv")
@@ -78,10 +79,10 @@ class CustomDashboard(ExplainerComponent):
     def layout(self):
         return dbc.Container(
             [
-                # Split into two halves: Model Info on the left, Explainability on the right
+                # Split into two halves: Model Info and Explainability
                 dbc.Row(
                     [
-                        # Left Half: Model Info, Inputs, and Prediction Result
+                        # Left Half: Model Info, Inputs, and Prediction
                         dbc.Col(
                             dbc.Card(
                                 [
@@ -111,7 +112,6 @@ class CustomDashboard(ExplainerComponent):
                                                 style={'fontSize': '1rem'}
                                             ),
                                             html.H5("Input Data for Prediction:", className="mt-3"),
-                                            # Input fields for each feature
                                             html.Div(
                                                 [
                                                     dcc.Input(id='input-education', type='text', placeholder='Education', className='mb-2'),
@@ -132,7 +132,7 @@ class CustomDashboard(ExplainerComponent):
                             ),
                             width=6
                         ),
-                        
+
                         # Right Half: Explainable AI Components
                         dbc.Col(
                             dbc.Card(
@@ -161,12 +161,12 @@ class CustomDashboard(ExplainerComponent):
                     ],
                     className="mt-4"
                 ),
-                
+
                 # Footer Section
                 dbc.Row(
                     dbc.Col(
                         html.Footer(
-                            "© 2024 Vulnerability Prediction Dashboard | Data-Driven Insights & Explainability",
+                            "\u00a9 2024 Vulnerability Prediction Dashboard | Data-Driven Insights & Explainability",
                             className="text-center text-light bg-dark p-3 mt-4 animate__animated animate__fadeInUp",
                             style={'fontFamily': 'Courier New, monospace', 'fontSize': '1rem'}
                         )
@@ -188,20 +188,39 @@ dashboard = ExplainerDashboard(
     simple=True
 )
 
+# Add callback for prediction
+@dashboard.app.callback(
+    Output('prediction-output', 'children'),
+    [Input('predict-button', 'n_clicks')],
+    [
+        Input('input-education', 'value'),
+        Input('input-occupation', 'value'),
+        Input('input-income', 'value'),
+        Input('input-gender', 'value')
+    ]
+)
+def make_prediction(n_clicks, education, occupation, income, gender):
+    if n_clicks > 0:
+        input_data = {
+            'Education': education,
+            'Occupation': occupation,
+            'Total Income': float(income) if income else 0,
+            'Gender': gender
+        }
+        input_df = pd.DataFrame([input_data])
+        input_encoded = encoder.transform(input_df.select_dtypes(include=['object']))
+        input_final = pd.concat([input_df.select_dtypes(exclude=['object']), pd.DataFrame(input_encoded, columns=encoded_feature_names)], axis=1)
+
+        prediction = rf_classifier.predict(input_final)[0]
+        prob = rf_classifier.predict_proba(input_final)[0, 1]
+        result = "Vulnerable" if prediction == 1 else "Not Vulnerable"
+        return f"Prediction: {result} (Probability: {prob:.2%})"
+    return ""
+
 # Create FastAPI app
 server = FastAPI()
 server.mount("/", WSGIMiddleware(dashboard.flask_server()))
 
-from fastapi import FastAPI
-
-app = FastAPI()
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
-
-if __name__ == "__main__":
-    import os
-    import uvicorn
+if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8000))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    uvicorn.run("app:server", host="0.0.0.0", port=port, reload=True)
